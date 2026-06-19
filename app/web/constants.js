@@ -18,7 +18,7 @@ export const CATEGORY_DEFS = {
     fields: [{ key: "killed", type: "check", label: "Killed" }],
     columns: [
       { key: "level", label: "Lv", cls: "num" },
-      { key: "location", label: "Location" },
+      { key: "location", label: "Location", secondarySort: "level" },
       { key: "soulhack", label: "Soul Hack" },
       { key: "dlc", label: "DLC" },
     ],
@@ -136,8 +136,11 @@ export const CATEGORY_DEFS = {
   // Torna
   community: {
     label: "Community", icon: "🤝",
-    doneKey: "registered",
-    fields: [{ key: "registered", type: "check", label: "Registered" }],
+    doneKey: "completed",
+    fields: [
+      { key: "registered", type: "check", label: "Registered" },
+      { key: "completed", type: "check", label: "Completed" },
+    ],
     columns: [
       { key: "title", label: "Title" },
       { key: "location", label: "Location" },

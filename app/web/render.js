@@ -62,31 +62,40 @@ function thSort(label, key, ui, cls) {
 // alphabetically; field columns (check/num/status) sort by their tracked value.
 // Blank values always sink to the bottom.
 function sortItems(items, def, ui, state, game, cat) {
-  const key = ui.sortKey;
   const dir = ui.sortDir === "desc" ? -1 : 1;
-  const fld = def.fields.find((f) => f.key === key);
-  const valOf = (it) => {
-    if (fld) {
-      const v = getField(state, game, cat, it.id, key);
-      return fld.type === "check" ? (v ? 1 : 0) : Number(v || 0);
-    }
-    if (key === "name") return it.name || "";
-    return it[key] ?? "";
+  // build a value-getter for any key (field, name, or metadata column)
+  const makeVal = (key) => {
+    const fld = def.fields.find((f) => f.key === key);
+    return (it) => {
+      if (fld) {
+        const v = getField(state, game, cat, it.id, key);
+        return fld.type === "check" ? (v ? 1 : 0) : Number(v || 0);
+      }
+      if (key === "name") return it.name || "";
+      return it[key] ?? "";
+    };
+  };
+  // compare two non-blank values (numeric-aware: "77", "36-40")
+  const cmpCore = (av, bv) => {
+    if (typeof av === "number" && typeof bv === "number") return av - bv;
+    const fa = parseFloat(av), fb = parseFloat(bv);
+    const aNum = /^\s*-?\d/.test(String(av)) && !isNaN(fa);
+    const bNum = /^\s*-?\d/.test(String(bv)) && !isNaN(fb);
+    return aNum && bNum ? fa - fb : String(av).toLowerCase().localeCompare(String(bv).toLowerCase());
+  };
+  const primary = makeVal(ui.sortKey);
+  // a metadata column may declare a tiebreaker (e.g. Location → Level), always ascending
+  const secKey = (def.columns || []).find((c) => c.key === ui.sortKey)?.secondarySort;
+  const secondary = secKey ? makeVal(secKey) : null;
+  const cmpWithBlanks = (av, bv, d) => {
+    if (av === "" && bv !== "") return 1;   // blanks last, regardless of direction
+    if (bv === "" && av !== "") return -1;
+    return cmpCore(av, bv) * d;
   };
   return items.slice().sort((a, b) => {
-    const av = valOf(a), bv = valOf(b);
-    if (av === "" && bv !== "") return 1;   // blanks last, regardless of dir
-    if (bv === "" && av !== "") return -1;
-    let c;
-    if (typeof av === "number" && typeof bv === "number") {
-      c = av - bv;
-    } else {
-      const fa = parseFloat(av), fb = parseFloat(bv);
-      const aNum = /^\s*-?\d/.test(String(av)) && !isNaN(fa);
-      const bNum = /^\s*-?\d/.test(String(bv)) && !isNaN(fb);
-      c = aNum && bNum ? fa - fb : String(av).toLowerCase().localeCompare(String(bv).toLowerCase());
-    }
-    return c * dir;
+    let c = cmpWithBlanks(primary(a), primary(b), dir);
+    if (c === 0 && secondary) c = cmpWithBlanks(secondary(a), secondary(b), 1);
+    return c;
   });
 }
 
