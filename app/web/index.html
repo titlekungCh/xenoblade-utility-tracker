@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Xenoblade Utility Tracker</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <h1>Xenoblade Utility Tracker</h1>
+    <div class="game-switch" id="gameSwitch"></div>
+    <div class="save-area">
+      <span id="saveStatus" class="save-status">loading…</span>
+      <button id="saveBtn" class="btn-save">Save</button>
+    </div>
+  </header>
+
+  <nav class="tabs" id="tabs"></nav>
+
+  <main>
+    <section id="view" class="view active"></section>
+  </main>
+
+  <div id="log" class="log" aria-live="polite"></div>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,5403 @@
+{
+  "game": "xc2",
+  "name": "Xenoblade Chronicles 2",
+  "source": "xenoserieswiki.org",
+  "categories": {
+    "monsters": {
+      "expected": 105,
+      "partial": false,
+      "items": [
+        {
+          "id": "mon-acute-melvyn",
+          "name": "Acute Melvyn",
+          "level": "25",
+          "location": "Gormott",
+          "dlc": ""
+        },
+        {
+          "id": "mon-anguished-solomon",
+          "name": "Anguished Solomon",
+          "level": "28",
+          "location": "Gormott",
+          "dlc": ""
+        },
+        {
+          "id": "mon-antecedent-xiaxia",
+          "name": "Antecedent Xiaxia",
+          "level": "99",
+          "location": "Mor Ardain",
+          "dlc": ""
+        },
+        {
+          "id": "mon-armored-brennan",
+          "name": "Armored Brennan",
+          "level": "86",
+          "location": "Mor Ardain",
+          "dlc": ""
+        },
+        {
+          "id": "mon-artifice-ophion",
+          "name": "Artifice Ophion",
+          "level": "117",
+          "location": "Cliffs of Morytha",
+          "dlc": ""
+        },
+        {
+          "id": "mon-atrocious-hermes",
+          "name": "Atrocious Hermes",
+          "level": "58",
+          "location": "Temperantia",
+          "dlc": ""
+        },
+        {
+          "id": "mon-autumn-shower-melvin",
+          "name": "Autumn-Shower Melvin",
+          "level": "46",
+          "location": "Tantal",
+          "dlc": ""
+        },
+        {
+          "id": "mon-azure-reginald",
+          "name": "Azure Reginald",
+          "level": "41",
+          "location": "Uraya",
+          "dlc": ""
+        },
+        {
+          "id": "mon-beast-hunter-william",
+          "name": "Beast-Hunter William",
+          "level": "99",
+          "location": "Uraya",
+          "dlc": ""
+        },
+        {
+          "id": "mon-blue-eyed-korbin",
+          "name": "Blue-Eyed Korbin",
+          "level": "42",
+          "location": "Tantal",
+          "dlc": ""
+        },
+        {
+          "id": "mon-chickenheart-dagmara",
+          "name": "Chickenheart Dagmara",
+          "level": "120",
+          "location": "Mor Ardain",
+          "dlc": ""
+        },
+        {
+          "id": "mon-climactic-honnold",
+          "name": "Climactic Honnold",
+          "level": "45",
+          "location": "Leftheria",
+          "dlc": ""
+        },
+        {
+          "id": "mon-cloud-sea-king-ken",
+          "name": "Cloud Sea King Ken",
+          "level": "110",
+          "location": "Tantal",
+          "dlc": ""
+        },
+        {
+          "id": "mon-confiscator-jimmy",
+          "name": "Confiscator Jimmy",
+          "level": "38",
+          "location": "Leftheria",
+          "dlc": ""
+        },
+        {
+          "id": "mon-crimson-derrick",
+          "name": "Crimson Derrick",
+          "level": "58",
+          "location": "Cliffs of Morytha",
+          "dlc": ""
+        },
+        {
+          "id": "mon-cunning-saggie",
+          "name": "Cunning Saggie",
+          "level": "24",
+          "location": "Uraya",
+          "dlc": ""
+        },
+        {
+          "id": "mon-decapitator-marvin",
+          "name": "Decapitator Marvin",
+          "level": "33",
+          "location": "Mor Ardain",
+          "dlc": ""
+        },
+        {
+          "id": "mon-dedicated-conroy",
+          "name": "Dedicated Conroy",
+          "level": "51",
+          "location": "Tantal",
+          "dlc": ""
+        },
+        {
+          "id": "mon-deep-green-oscar",
+          "name": "Deep-Green Oscar",
+          "level": "41",
+          "location": "Tantal",
+          "dlc": ""
+        },
+        {
+          "id": "mon-demon-king-gilbert",
+          "name": "Demon King Gilbert",
+          "level": "80",
+          "location": "Uraya",
+          "dlc": ""
+        },
+        {
+          "id": "mon-demon-shell-jacob",
+          "name": "Demon-Shell Jacob",
+          "level": "30",
+          "location": "Mor Ardain",
+          "dlc": ""
+        },
+        {
+          "id": "mon-enlightened-morris",
+          "name": "Enlightened Morris",
+          "level": "42",
+          "location": "Tantal",
+          "dlc": ""
+        },
+        {
+          "id": "mon-epicurean-ligia",
+          "name": "Epicurean Ligia",
+          "level": "48",
+          "location": "Leftheria",
+          "dlc": ""
+        },
+        {
+          "id": "mon-evileye-mambor",
+          "name": "Evileye Mambor",
+          "level": "54",
+          "location": "Cliffs of Morytha",
+          "dlc": ""
+        },
+        {
+          "id": "mon-excavator-darius",
+          "name": "Excavator Darius",
+          "level": "46",
+          "location": "Spirit Crucible Elpys",
+          "dlc": ""
+        },
+        {
+          "id": "mon-gladiator-orion",
+          "name": "Gladiator Orion",
+          "level": "100",
+          "location": "Cliffs of Morytha",
+          "dlc": ""
+        },
+        {
+          "id": "mon-glamorous-alfred",
+          "name": "Glamorous Alfred",
+          "level": "50",
+          "location": "Spirit Crucible Elpys",
+          "dlc": ""
+        },
+        {
+          "id": "mon-grievous-clive",
+          "name": "Grievous Clive",
+          "level": "94",
+          "location": "Temperantia",
+          "dlc": ""
+        },
+        {
+          "id": "mon-hard-bitten-xavier",
+          "name": "Hard-Bitten Xavier",
+          "level": "48",
+          "location": "Spirit Crucible Elpys",
+          "dlc": ""
+        },
+        {
+          "id": "mon-haywire-kustal",
+          "name": "Haywire Kustal",
+          "level": "60",
+          "location": "World Tree",
+          "dlc": ""
+        },
+        {
+          "id": "mon-haywire-phoebus",
+          "name": "Haywire Phoebus",
+          "level": "66",
+          "location": "World Tree",
+          "dlc": ""
+        },
+        {
+          "id": "mon-haywire-radclyffe",
+          "name": "Haywire Radclyffe",
+          "level": "58",
+          "location": "World Tree",
+          "dlc": ""
+        },
+        {
+          "id": "mon-heroic-edwin",
+          "name": "Heroic Edwin",
+          "level": "44",
+          "location": "Tantal",
+          "dlc": ""
+        },
+        {
+          "id": "mon-holy-lancer-efrain",
+          "name": "Holy Lancer Efrain",
+          "level": "51",
+          "location": "Spirit Crucible Elpys",
+          "dlc": ""
+        },
+        {
+          "id": "mon-howitzer-leon",
+          "name": "Howitzer Leon",
+          "level": "48",
+          "location": "Uraya",
+          "dlc": ""
+        },
+        {
+          "id": "mon-immovable-gonzalez",
+          "name": "Immovable Gonzalez",
+          "level": "90",
+          "location": "Gormott",
+          "dlc": ""
+        },
+        {
+          "id": "mon-impassable-edgar",
+          "name": "Impassable Edgar",
+          "level": "60",
+          "location": "Tantal",
+          "dlc": ""
+        },
+        {
+          "id": "mon-implacable-dylan",
+          "name": "Implacable Dylan",
+          "level": "23",
+          "location": "Uraya",
+          "dlc": ""
+        },
+        {
+          "id": "mon-incandescent-marcus",
+          "name": "Incandescent Marcus",
+          "level": "54",
+          "location": "Tantal",
+          "dlc": ""
+        },
+        {
+          "id": "mon-insectivore-malcom",
+          "name": "Insectivore Malcom",
+          "level": "75",
+          "location": "Gormott",
+          "dlc": ""
+        },
+        {
+          "id": "mon-jadeite-polly",
+          "name": "Jadeite Polly",
+          "level": "38",
+          "location": "Leftheria",
+          "dlc": ""
+        },
+        {
+          "id": "mon-judicial-kollin",
+          "name": "Judicial Kollin",
+          "level": "33",
+          "location": "Mor Ardain",
+          "dlc": ""
+        },
+        {
+          "id": "mon-leonine-sadie",
+          "name": "Leonine Sadie",
+          "level": "95",
+          "location": "Temperantia",
+          "dlc": ""
+        },
+        {
+          "id": "mon-machine-gun-julio",
+          "name": "Machine-Gun Julio",
+          "level": "53",
+          "location": "Cliffs of Morytha",
+          "dlc": ""
+        },
+        {
+          "id": "mon-malicious-dimitri",
+          "name": "Malicious Dimitri",
+          "level": "57",
+          "location": "Land of Morytha",
+          "dlc": ""
+        },
+        {
+          "id": "mon-man-eating-glenn",
+          "name": "Man-Eating Glenn",
+          "level": "32",
+          "location": "Mor Ardain",
+          "dlc": ""
+        },
+        {
+          "id": "mon-martial-kamron",
+          "name": "Martial Kamron",
+          "level": "23",
+          "location": "Uraya",
+          "dlc": ""
+        },
+        {
+          "id": "mon-mk-vi-familion",
+          "name": "Mk. VI Familion",
+          "level": "62",
+          "location": "World Tree",
+          "dlc": ""
+        },
+        {
+          "id": "mon-mk-vi-gerolf",
+          "name": "Mk. VI Gerolf",
+          "level": "66",
+          "location": "World Tree",
+          "dlc": ""
+        },
+        {
+          "id": "mon-mk-vi-margot",
+          "name": "Mk. VI Margot",
+          "level": "64",
+          "location": "World Tree",
+          "dlc": ""
+        },
+        {
+          "id": "mon-mk-vii-arek",
+          "name": "Mk. VII Arek",
+          "level": "114",
+          "location": "World Tree",
+          "dlc": ""
+        },
+        {
+          "id": "mon-moonlighting-elwyn",
+          "name": "Moonlighting Elwyn",
+          "level": "8",
+          "location": "Gormott",
+          "dlc": ""
+        },
+        {
+          "id": "mon-muscley-damian",
+          "name": "Muscley Damian",
+          "level": "43",
+          "location": "Tantal",
+          "dlc": ""
+        },
+        {
+          "id": "mon-myrmidon-eugene",
+          "name": "Myrmidon Eugene",
+          "level": "33",
+          "location": "Mor Ardain",
+          "dlc": ""
+        },
+        {
+          "id": "mon-nitpicking-beru",
+          "name": "Nitpicking Beru",
+          "level": "27",
+          "location": "Gormott",
+          "dlc": ""
+        },
+        {
+          "id": "mon-parasite-aplacus",
+          "name": "Parasite Aplacus",
+          "level": "58",
+          "location": "Land of Morytha",
+          "dlc": ""
+        },
+        {
+          "id": "mon-peerless-beaufort",
+          "name": "Peerless Beaufort",
+          "level": "49",
+          "location": "Leftheria",
+          "dlc": ""
+        },
+        {
+          "id": "mon-pernicious-benf",
+          "name": "Pernicious Benf",
+          "level": "109",
+          "location": "Temperantia",
+          "dlc": ""
+        },
+        {
+          "id": "mon-perplexed-stoyan",
+          "name": "Perplexed Stoyan",
+          "level": "47",
+          "location": "Leftheria",
+          "dlc": ""
+        },
+        {
+          "id": "mon-praetorian-argus",
+          "name": "Praetorian Argus",
+          "level": "65",
+          "location": "World Tree",
+          "dlc": ""
+        },
+        {
+          "id": "mon-praetorian-medea",
+          "name": "Praetorian Medea",
+          "level": "66",
+          "location": "World Tree",
+          "dlc": ""
+        },
+        {
+          "id": "mon-rapturous-scandia",
+          "name": "Rapturous Scandia",
+          "level": "48",
+          "location": "Leftheria",
+          "dlc": ""
+        },
+        {
+          "id": "mon-ravenwing-skull",
+          "name": "Ravenwing Skull",
+          "level": "62",
+          "location": "Temperantia",
+          "dlc": ""
+        },
+        {
+          "id": "mon-reeking-douglas",
+          "name": "Reeking Douglas",
+          "level": "104",
+          "location": "Gormott",
+          "dlc": ""
+        },
+        {
+          "id": "mon-relentless-arduran",
+          "name": "Relentless Arduran",
+          "level": "99",
+          "location": "Gormott",
+          "dlc": ""
+        },
+        {
+          "id": "mon-remorseful-vaclav",
+          "name": "Remorseful Vaclav",
+          "level": "14",
+          "location": "Gormott",
+          "dlc": ""
+        },
+        {
+          "id": "mon-runaway-train-bool",
+          "name": "Runaway Train Bool",
+          "level": "55",
+          "location": "Temperantia",
+          "dlc": ""
+        },
+        {
+          "id": "mon-sad-bernard",
+          "name": "Sad Bernard",
+          "level": "12",
+          "location": "Gormott",
+          "dlc": ""
+        },
+        {
+          "id": "mon-skyfist-remington",
+          "name": "Skyfist Remington",
+          "level": "39",
+          "location": "Leftheria",
+          "dlc": ""
+        },
+        {
+          "id": "mon-slasher-buffon",
+          "name": "Slasher Buffon",
+          "level": "40",
+          "location": "Mor Ardain",
+          "dlc": ""
+        },
+        {
+          "id": "mon-sniping-brent",
+          "name": "Sniping Brent",
+          "level": "18",
+          "location": "Gormott",
+          "dlc": ""
+        },
+        {
+          "id": "mon-soothsayer-gerald",
+          "name": "Soothsayer Gerald",
+          "level": "78",
+          "location": "Uraya",
+          "dlc": ""
+        },
+        {
+          "id": "mon-soul-eater-stanley",
+          "name": "Soul-Eater Stanley",
+          "level": "56",
+          "location": "Land of Morytha",
+          "dlc": ""
+        },
+        {
+          "id": "mon-spellbinder-billy",
+          "name": "Spellbinder Billy",
+          "level": "46",
+          "location": "Tantal",
+          "dlc": ""
+        },
+        {
+          "id": "mon-spring-shower-elliott",
+          "name": "Spring-Shower Elliott",
+          "level": "42",
+          "location": "Tantal",
+          "dlc": ""
+        },
+        {
+          "id": "mon-supercharged-alfonso",
+          "name": "Supercharged Alfonso",
+          "level": "20",
+          "location": "Gormott",
+          "dlc": ""
+        },
+        {
+          "id": "mon-tattooed-hugo",
+          "name": "Tattooed Hugo",
+          "level": "31",
+          "location": "Mor Ardain",
+          "dlc": ""
+        },
+        {
+          "id": "mon-territorial-rotbart",
+          "name": "Territorial Rotbart",
+          "level": "81",
+          "location": "Gormott",
+          "dlc": ""
+        },
+        {
+          "id": "mon-tyrannotitan-kurodil",
+          "name": "Tyrannotitan Kurodil",
+          "level": "130",
+          "location": "Temperantia",
+          "dlc": ""
+        },
+        {
+          "id": "mon-unflinching-saxton",
+          "name": "Unflinching Saxton",
+          "level": "99",
+          "location": "Mor Ardain",
+          "dlc": ""
+        },
+        {
+          "id": "mon-vagrant-baldr",
+          "name": "Vagrant Baldr",
+          "level": "62",
+          "location": "Mor Ardain",
+          "dlc": ""
+        },
+        {
+          "id": "mon-vampire-bride-marion",
+          "name": "Vampire Bride Marion",
+          "level": "65",
+          "location": "Uraya",
+          "dlc": ""
+        },
+        {
+          "id": "mon-venal-montgomery",
+          "name": "Venal Montgomery",
+          "level": "45",
+          "location": "Gormott",
+          "dlc": ""
+        },
+        {
+          "id": "mon-vile-howard",
+          "name": "Vile Howard",
+          "level": "47",
+          "location": "Spirit Crucible Elpys",
+          "dlc": ""
+        },
+        {
+          "id": "mon-walker-trap",
+          "name": "Walker Trap",
+          "level": "26",
+          "location": "Uraya",
+          "dlc": ""
+        },
+        {
+          "id": "mon-beatific-ophelia",
+          "name": "Beatific Ophelia",
+          "level": "48",
+          "location": "Kingdom of Torna",
+          "dlc": "Torna"
+        },
+        {
+          "id": "mon-erratic-goliante",
+          "name": "Erratic Goliante",
+          "level": "45",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "mon-everdark-erg",
+          "name": "Everdark Erg",
+          "level": "36",
+          "location": "Kingdom of Torna",
+          "dlc": "Torna"
+        },
+        {
+          "id": "mon-flying-fortress-desmor",
+          "name": "Flying Fortress Desmor",
+          "level": "55",
+          "location": "Kingdom of Torna",
+          "dlc": "Torna"
+        },
+        {
+          "id": "mon-gourmand-galgan",
+          "name": "Gourmand Galgan",
+          "level": "38",
+          "location": "Kingdom of Torna",
+          "dlc": "Torna"
+        },
+        {
+          "id": "mon-handwringing-bigelow",
+          "name": "Handwringing Bigelow",
+          "level": "25",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "mon-harbinger-cavill",
+          "name": "Harbinger Cavill",
+          "level": "23",
+          "location": "Kingdom of Torna",
+          "dlc": "Torna"
+        },
+        {
+          "id": "mon-herculean-gibson",
+          "name": "Herculean Gibson",
+          "level": "75",
+          "location": "Kingdom of Torna",
+          "dlc": "Torna"
+        },
+        {
+          "id": "mon-hurricane-anise",
+          "name": "Hurricane Anise",
+          "level": "100",
+          "location": "Kingdom of Torna",
+          "dlc": "Torna"
+        },
+        {
+          "id": "mon-interceptor-grace",
+          "name": "Interceptor Grace",
+          "level": "40",
+          "location": "Kingdom of Torna",
+          "dlc": "Torna"
+        },
+        {
+          "id": "mon-ionospheric-mitchell",
+          "name": "Ionospheric Mitchell",
+          "level": "50",
+          "location": "Kingdom of Torna",
+          "dlc": "Torna"
+        },
+        {
+          "id": "mon-lunar-amaruq",
+          "name": "Lunar Amaruq",
+          "level": "34",
+          "location": "Kingdom of Torna",
+          "dlc": "Torna"
+        },
+        {
+          "id": "mon-mesmer-tlaloc",
+          "name": "Mesmer Tlaloc",
+          "level": "85",
+          "location": "Kingdom of Torna",
+          "dlc": "Torna"
+        },
+        {
+          "id": "mon-nomadic-rusholme",
+          "name": "Nomadic Rusholme",
+          "level": "44",
+          "location": "Kingdom of Torna",
+          "dlc": "Torna"
+        },
+        {
+          "id": "mon-overaffectionate-murph",
+          "name": "Overaffectionate Murph",
+          "level": "18",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "mon-ravine-bunnit",
+          "name": "Ravine Bunnit",
+          "level": "50",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "mon-scowling-quincy",
+          "name": "Scowling Quincy",
+          "level": "25",
+          "location": "Kingdom of Torna",
+          "dlc": "Torna"
+        },
+        {
+          "id": "mon-sentinel-carpathia",
+          "name": "Sentinel Carpathia",
+          "level": "65",
+          "location": "Kingdom of Torna",
+          "dlc": "Torna"
+        },
+        {
+          "id": "mon-sequestered-ludd",
+          "name": "Sequestered Ludd",
+          "level": "48",
+          "location": "Kingdom of Torna",
+          "dlc": "Torna"
+        },
+        {
+          "id": "mon-sleepwalker-mork",
+          "name": "Sleepwalker Mork",
+          "level": "33",
+          "location": "Kingdom of Torna",
+          "dlc": "Torna"
+        }
+      ]
+    },
+    "quests": {
+      "expected": 210,
+      "partial": true,
+      "items": [
+        {
+          "id": "quest-cargo-escort",
+          "name": "Cargo Escort",
+          "type": "",
+          "location": "Argentum Trade Guild",
+          "dlc": ""
+        },
+        {
+          "id": "quest-hide-and-seek",
+          "name": "Hide and Seek",
+          "type": "",
+          "location": "Argentum Trade Guild",
+          "dlc": ""
+        },
+        {
+          "id": "quest-adenine-s-password",
+          "name": "Adenine's Password",
+          "type": "",
+          "location": "Argentum Trade Guild",
+          "dlc": ""
+        },
+        {
+          "id": "quest-dagas-s-past-leftheria",
+          "name": "Dagas's Past: Leftheria",
+          "type": "",
+          "location": "Argentum Trade Guild",
+          "dlc": ""
+        },
+        {
+          "id": "quest-big-job-preparations",
+          "name": "Big Job Preparations",
+          "type": "Main Story Quest",
+          "location": "Argentum Trade Guild",
+          "dlc": ""
+        },
+        {
+          "id": "quest-better-late-than-never",
+          "name": "Better Late Than Never",
+          "type": "",
+          "location": "Argentum Trade Guild",
+          "dlc": ""
+        },
+        {
+          "id": "quest-into-the-open-sky",
+          "name": "Into the Open Sky",
+          "type": "",
+          "location": "Argentum Trade Guild",
+          "dlc": ""
+        },
+        {
+          "id": "quest-fame-and-family",
+          "name": "Fame and Family",
+          "type": "",
+          "location": "Argentum Trade Guild",
+          "dlc": ""
+        },
+        {
+          "id": "quest-bana-s-secret-treasure",
+          "name": "Bana's Secret Treasure",
+          "type": "",
+          "location": "Argentum Trade Guild",
+          "dlc": ""
+        },
+        {
+          "id": "quest-nopon-doubloons-ahoy",
+          "name": "Nopon Doubloons Ahoy",
+          "type": "",
+          "location": "Argentum Trade Guild",
+          "dlc": ""
+        },
+        {
+          "id": "quest-uncover-the-truth",
+          "name": "Uncover the Truth",
+          "type": "",
+          "location": "Argentum Trade Guild",
+          "dlc": ""
+        },
+        {
+          "id": "quest-bana-s-revenge",
+          "name": "Bana's Revenge",
+          "type": "",
+          "location": "Argentum Trade Guild",
+          "dlc": ""
+        },
+        {
+          "id": "quest-making-love-source",
+          "name": "Making Love Source",
+          "type": "",
+          "location": "Argentum Trade Guild",
+          "dlc": ""
+        },
+        {
+          "id": "quest-hot-spring-bonanza",
+          "name": "Hot Spring Bonanza",
+          "type": "",
+          "location": "Argentum Trade Guild",
+          "dlc": ""
+        },
+        {
+          "id": "quest-hero-of-the-nopon",
+          "name": "Hero of the Nopon",
+          "type": "Blade Quest",
+          "location": "Argentum Trade Guild",
+          "dlc": ""
+        },
+        {
+          "id": "quest-eternal-spirit",
+          "name": "Eternal Spirit",
+          "type": "Blade Quest",
+          "location": "Argentum Trade Guild",
+          "dlc": ""
+        },
+        {
+          "id": "quest-limits-of-awareness",
+          "name": "Limits of Awareness",
+          "type": "Blade Quest",
+          "location": "Argentum Trade Guild",
+          "dlc": ""
+        },
+        {
+          "id": "quest-a-real-challenge",
+          "name": "A Real Challenge",
+          "type": "Blade Quest",
+          "location": "Argentum Trade Guild",
+          "dlc": ""
+        },
+        {
+          "id": "quest-birds-of-a-feather",
+          "name": "Birds of a Feather",
+          "type": "Blade Quest",
+          "location": "Argentum Trade Guild",
+          "dlc": ""
+        },
+        {
+          "id": "quest-a-young-man-s-prize",
+          "name": "A Young Man's Prize",
+          "type": "",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-fresh-and-fruity",
+          "name": "Fresh and Fruity",
+          "type": "",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-no-penny-nopon",
+          "name": "No-Penny Nopon",
+          "type": "",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-diplomatic-tensions",
+          "name": "Diplomatic Tensions",
+          "type": "",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-a-small-war",
+          "name": "A Small War",
+          "type": "",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-the-missing-order",
+          "name": "The Missing Order",
+          "type": "",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-repair-torigoth-s-crane",
+          "name": "Repair Torigoth's Crane",
+          "type": "",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-crane-criminals",
+          "name": "Crane Criminals",
+          "type": "",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-tirkin-suppression",
+          "name": "Tirkin Suppression",
+          "type": "",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-the-race-to-find-nia",
+          "name": "The Race to Find Nia",
+          "type": "Main Story Quest",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-artificial-blade-parts-2",
+          "name": "Artificial Blade Parts 2",
+          "type": "Main Story Quest",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-artificial-blade-parts-1",
+          "name": "Artificial Blade Parts 1",
+          "type": "Main Story Quest",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-stop-thief",
+          "name": "Stop, Thief!",
+          "type": "Main Story Quest",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-the-case-of-the-crane",
+          "name": "The Case of the Crane",
+          "type": "",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-concerned-carpenter",
+          "name": "Concerned Carpenter",
+          "type": "",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-grow-little-vegetables",
+          "name": "Grow, Little Vegetables!",
+          "type": "",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-the-militia-s-request",
+          "name": "The Militia's Request",
+          "type": "",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-whereabouts-unknown",
+          "name": "Whereabouts Unknown",
+          "type": "",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-umon-bounces-back",
+          "name": "Umon Bounces Back",
+          "type": "",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-the-riddle-on-the-wall",
+          "name": "The Riddle on the Wall",
+          "type": "",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-powered-up-poppi",
+          "name": "Powered-Up Poppi",
+          "type": "",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-paying-it-forward",
+          "name": "Paying It Forward",
+          "type": "",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-pest-control-1",
+          "name": "Pest Control 1",
+          "type": "",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-pest-control-2",
+          "name": "Pest Control 2",
+          "type": "",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-pest-control-3",
+          "name": "Pest Control 3",
+          "type": "",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-passion-of-the-artisan",
+          "name": "Passion of the Artisan",
+          "type": "",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-nopon-of-good-tastes",
+          "name": "Nopon of Good Tastes",
+          "type": "",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-upgrades-and-tinkering",
+          "name": "Upgrades and Tinkering",
+          "type": "",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-our-daily-bread",
+          "name": "Our Daily Bread",
+          "type": "Blade Quest",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-crystal-clear",
+          "name": "Crystal Clear",
+          "type": "Blade Quest",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-bearing-her-soul",
+          "name": "Bearing Her Soul",
+          "type": "Blade Quest",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-newt-recruits",
+          "name": "Newt Recruits",
+          "type": "Blade Quest",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-tranquility",
+          "name": "Tranquility",
+          "type": "Blade Quest",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-go-for-it-electra",
+          "name": "Go for it, Electra!",
+          "type": "Blade Quest",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-shiny-new-power",
+          "name": "Shiny New Power",
+          "type": "Blade Quest",
+          "location": "Torigoth",
+          "dlc": ""
+        },
+        {
+          "id": "quest-knocked-about-nopon",
+          "name": "Knocked About Nopon",
+          "type": "",
+          "location": "Upper Level - Right",
+          "dlc": ""
+        },
+        {
+          "id": "quest-buoy-can-t-swim",
+          "name": "Buoy Can't Swim",
+          "type": "",
+          "location": "Upper Level - Right",
+          "dlc": ""
+        },
+        {
+          "id": "quest-one-step-ahead",
+          "name": "One Step Ahead",
+          "type": "",
+          "location": "Upper Level - Right",
+          "dlc": ""
+        },
+        {
+          "id": "quest-the-driver-in-ice",
+          "name": "The Driver in Ice",
+          "type": "",
+          "location": "Upper Level - Right",
+          "dlc": ""
+        },
+        {
+          "id": "quest-star-crossed-lovers",
+          "name": "Star-Crossed Lovers",
+          "type": "",
+          "location": "Upper Level - Left",
+          "dlc": ""
+        },
+        {
+          "id": "quest-umon-s-ship",
+          "name": "Umon's Ship",
+          "type": "Main Story Quest",
+          "location": "Upper Level - Left",
+          "dlc": ""
+        },
+        {
+          "id": "quest-would-be-mercs",
+          "name": "Would-Be Mercs",
+          "type": "",
+          "location": "Garfont Village",
+          "dlc": ""
+        },
+        {
+          "id": "quest-sniff-out-the-spy",
+          "name": "Sniff out the Spy",
+          "type": "",
+          "location": "Garfont Village",
+          "dlc": ""
+        },
+        {
+          "id": "quest-difficult-decisions",
+          "name": "Difficult Decisions",
+          "type": "",
+          "location": "Garfont Village",
+          "dlc": ""
+        },
+        {
+          "id": "quest-the-supply-situation",
+          "name": "The Supply Situation",
+          "type": "",
+          "location": "Garfont Village",
+          "dlc": ""
+        },
+        {
+          "id": "quest-a-test-of-strength",
+          "name": "A Test of Strength",
+          "type": "",
+          "location": "Garfont Village",
+          "dlc": ""
+        },
+        {
+          "id": "quest-leadership-qualities",
+          "name": "Leadership Qualities",
+          "type": "",
+          "location": "Garfont Village",
+          "dlc": ""
+        },
+        {
+          "id": "quest-marvelous-mercenaries",
+          "name": "Marvelous Mercenaries",
+          "type": "",
+          "location": "Garfont Village",
+          "dlc": ""
+        },
+        {
+          "id": "quest-a-smith-s-pastime",
+          "name": "A Smith's Pastime",
+          "type": "",
+          "location": "Garfont Village",
+          "dlc": ""
+        },
+        {
+          "id": "quest-true-colors",
+          "name": "True Colors",
+          "type": "",
+          "location": "Fonsa Myma",
+          "dlc": ""
+        },
+        {
+          "id": "quest-a-helping-hand",
+          "name": "A Helping Hand",
+          "type": "",
+          "location": "Fonsa Myma",
+          "dlc": ""
+        },
+        {
+          "id": "quest-dagas-s-past-folktales",
+          "name": "Dagas's Past: Folktales",
+          "type": "",
+          "location": "Fonsa Myma",
+          "dlc": ""
+        },
+        {
+          "id": "quest-boys-and-bullies",
+          "name": "Boys and Bullies",
+          "type": "",
+          "location": "Fonsa Myma",
+          "dlc": ""
+        },
+        {
+          "id": "quest-family-vs-fiends",
+          "name": "Family vs. Fiends",
+          "type": "",
+          "location": "Fonsa Myma",
+          "dlc": ""
+        },
+        {
+          "id": "quest-jeline-and-shaun",
+          "name": "Jeline and Shaun",
+          "type": "",
+          "location": "Fonsa Myma",
+          "dlc": ""
+        },
+        {
+          "id": "quest-unspoken-suspicion",
+          "name": "Unspoken Suspicion",
+          "type": "",
+          "location": "Fonsa Myma",
+          "dlc": ""
+        },
+        {
+          "id": "quest-vandham-s-last-wish",
+          "name": "Vandham's Last Wish",
+          "type": "Main Story Quest",
+          "location": "Fonsa Myma",
+          "dlc": ""
+        },
+        {
+          "id": "quest-the-titan-scholar",
+          "name": "The Titan Scholar",
+          "type": "",
+          "location": "Fonsa Myma",
+          "dlc": ""
+        },
+        {
+          "id": "quest-a-secret-cure",
+          "name": "A Secret Cure",
+          "type": "",
+          "location": "Fonsa Myma",
+          "dlc": ""
+        },
+        {
+          "id": "quest-a-hat-fit-for-a-lady",
+          "name": "A Hat Fit for a Lady",
+          "type": "",
+          "location": "Fonsa Myma",
+          "dlc": ""
+        },
+        {
+          "id": "quest-a-mercenary-s-honor",
+          "name": "A Mercenary's Honor",
+          "type": "",
+          "location": "Fonsa Myma",
+          "dlc": ""
+        },
+        {
+          "id": "quest-sunken-boosters",
+          "name": "Sunken Boosters",
+          "type": "",
+          "location": "Fonsa Myma",
+          "dlc": ""
+        },
+        {
+          "id": "quest-the-trendy-patissier",
+          "name": "The Trendy Patissier",
+          "type": "",
+          "location": "Fonsa Myma",
+          "dlc": ""
+        },
+        {
+          "id": "quest-flames-of-justice",
+          "name": "Flames of Justice",
+          "type": "Blade Quest",
+          "location": "Fonsa Myma",
+          "dlc": ""
+        },
+        {
+          "id": "quest-follow-your-passion",
+          "name": "Follow Your Passion",
+          "type": "Blade Quest",
+          "location": "Fonsa Myma",
+          "dlc": ""
+        },
+        {
+          "id": "quest-nature-boy",
+          "name": "Nature Boy",
+          "type": "Blade Quest",
+          "location": "Fonsa Myma",
+          "dlc": ""
+        },
+        {
+          "id": "quest-blade-sharp-memory",
+          "name": "Blade-Sharp Memory",
+          "type": "Blade Quest",
+          "location": "Fonsa Myma",
+          "dlc": ""
+        },
+        {
+          "id": "quest-theory-and-praxis",
+          "name": "Theory and Praxis",
+          "type": "Blade Quest",
+          "location": "Fonsa Myma",
+          "dlc": ""
+        },
+        {
+          "id": "quest-all-s-fair",
+          "name": "All's Fair",
+          "type": "Blade Quest",
+          "location": "Fonsa Myma",
+          "dlc": ""
+        },
+        {
+          "id": "quest-precious-yearnings",
+          "name": "Precious Yearnings",
+          "type": "Blade Quest",
+          "location": "Fonsa Myma",
+          "dlc": ""
+        },
+        {
+          "id": "quest-mysterious-note",
+          "name": "Mysterious Note",
+          "type": "",
+          "location": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "quest-gotta-start-somewhere",
+          "name": "Gotta Start Somewhere!",
+          "type": "",
+          "location": "Stomach",
+          "dlc": ""
+        },
+        {
+          "id": "quest-m-i-a-nopon",
+          "name": "M.I.A. Nopon",
+          "type": "",
+          "location": "Stomach",
+          "dlc": ""
+        },
+        {
+          "id": "quest-lingering-resentment",
+          "name": "Lingering Resentment",
+          "type": "Blade Quest",
+          "location": "Olethro Ruins",
+          "dlc": ""
+        },
+        {
+          "id": "quest-hard-to-stomach",
+          "name": "Hard to Stomach",
+          "type": "",
+          "location": "Alba Cavanich",
+          "dlc": ""
+        },
+        {
+          "id": "quest-ecological-survey",
+          "name": "Ecological Survey",
+          "type": "",
+          "location": "Alba Cavanich",
+          "dlc": ""
+        },
+        {
+          "id": "quest-dagas-s-past-gormott",
+          "name": "Dagas's Past: Gormott",
+          "type": "",
+          "location": "Alba Cavanich",
+          "dlc": ""
+        },
+        {
+          "id": "quest-lila-s-location",
+          "name": "Lila's Location",
+          "type": "Main Story Quest",
+          "location": "Alba Cavanich",
+          "dlc": ""
+        },
+        {
+          "id": "quest-the-nopon-murals",
+          "name": "The Nopon Murals",
+          "type": "",
+          "location": "Alba Cavanich",
+          "dlc": ""
+        },
+        {
+          "id": "quest-we-meet-again",
+          "name": "We Meet Again",
+          "type": "",
+          "location": "Alba Cavanich",
+          "dlc": ""
+        },
+        {
+          "id": "quest-farewell-good-friend",
+          "name": "Farewell, Good Friend",
+          "type": "",
+          "location": "Alba Cavanich",
+          "dlc": ""
+        },
+        {
+          "id": "quest-midnight-feasting",
+          "name": "Midnight Feasting",
+          "type": "",
+          "location": "Alba Cavanich",
+          "dlc": ""
+        },
+        {
+          "id": "quest-failure-and-success",
+          "name": "Failure and Success",
+          "type": "Blade Quest",
+          "location": "Alba Cavanich",
+          "dlc": ""
+        },
+        {
+          "id": "quest-lost-kingdom",
+          "name": "Lost Kingdom",
+          "type": "Blade Quest",
+          "location": "Alba Cavanich",
+          "dlc": ""
+        },
+        {
+          "id": "quest-the-ties-that-bind",
+          "name": "The Ties that Bind",
+          "type": "Blade Quest",
+          "location": "Alba Cavanich",
+          "dlc": ""
+        },
+        {
+          "id": "quest-defeat-wiggins",
+          "name": "Defeat Wiggins",
+          "type": "",
+          "location": "Hardhaigh Palace",
+          "dlc": ""
+        },
+        {
+          "id": "quest-defeat-bhianc",
+          "name": "Defeat Bhianc",
+          "type": "",
+          "location": "Hardhaigh Palace",
+          "dlc": ""
+        },
+        {
+          "id": "quest-defeat-arrodh",
+          "name": "Defeat Arrodh",
+          "type": "",
+          "location": "Hardhaigh Palace",
+          "dlc": ""
+        },
+        {
+          "id": "quest-insurgent-investigations",
+          "name": "Insurgent Investigations",
+          "type": "",
+          "location": "Hardhaigh Palace",
+          "dlc": ""
+        },
+        {
+          "id": "quest-the-lone-watchman",
+          "name": "The Lone Watchman",
+          "type": "",
+          "location": "Hardhaigh Palace",
+          "dlc": ""
+        },
+        {
+          "id": "quest-road-to-the-capital",
+          "name": "Road to the Capital",
+          "type": "",
+          "location": "Lower Level (Mor Ardain)",
+          "dlc": ""
+        },
+        {
+          "id": "quest-world-tree-disaster",
+          "name": "World Tree Disaster",
+          "type": "",
+          "location": "Lower Level (Mor Ardain)",
+          "dlc": ""
+        },
+        {
+          "id": "quest-industrial-sort-of-tour",
+          "name": "Industrial Sort of Tour",
+          "type": "",
+          "location": "Lower Level (Mor Ardain)",
+          "dlc": ""
+        },
+        {
+          "id": "quest-search-for-tekuteku",
+          "name": "Search for Tekuteku",
+          "type": "",
+          "location": "Upper Level (Mor Ardain)",
+          "dlc": ""
+        },
+        {
+          "id": "quest-search-for-alec",
+          "name": "Search for Alec",
+          "type": "",
+          "location": "Upper Level (Mor Ardain)",
+          "dlc": ""
+        },
+        {
+          "id": "quest-search-for-sarrac",
+          "name": "Search for Sarrac",
+          "type": "",
+          "location": "Upper Level (Mor Ardain)",
+          "dlc": ""
+        },
+        {
+          "id": "quest-judicium-s-legacy",
+          "name": "Judicium's Legacy",
+          "type": "",
+          "location": "Temperantia",
+          "dlc": ""
+        },
+        {
+          "id": "quest-mellica-the-chorister",
+          "name": "Mellica the Chorister",
+          "type": "",
+          "location": "Indoline Sanctum",
+          "dlc": ""
+        },
+        {
+          "id": "quest-indol-s-teachings",
+          "name": "Indol's Teachings",
+          "type": "",
+          "location": "Goetuis Port",
+          "dlc": ""
+        },
+        {
+          "id": "quest-bana-the-schemer",
+          "name": "Bana the Schemer",
+          "type": "Main Story Quest",
+          "location": "Goetuis Port",
+          "dlc": ""
+        },
+        {
+          "id": "quest-a-ripe-new-frontier",
+          "name": "A Ripe New Frontier",
+          "type": "",
+          "location": "Goetuis Port",
+          "dlc": ""
+        },
+        {
+          "id": "quest-cannadea-s-troubles",
+          "name": "Cannadea's Troubles",
+          "type": "",
+          "location": "Theosoir",
+          "dlc": ""
+        },
+        {
+          "id": "quest-dagas-s-past-tantal",
+          "name": "Dagas's Past: Tantal",
+          "type": "",
+          "location": "Theosoir",
+          "dlc": ""
+        },
+        {
+          "id": "quest-most-awful-news",
+          "name": "Most Awful News?!",
+          "type": "",
+          "location": "Theosoir",
+          "dlc": ""
+        },
+        {
+          "id": "quest-artisanal-accessories",
+          "name": "Artisanal Accessories",
+          "type": "",
+          "location": "Theosoir",
+          "dlc": ""
+        },
+        {
+          "id": "quest-tender-hearted-beast",
+          "name": "Tender-Hearted Beast",
+          "type": "Blade Quest",
+          "location": "Theosoir",
+          "dlc": ""
+        },
+        {
+          "id": "quest-girl-power-off",
+          "name": "Girl Power-Off",
+          "type": "Blade Quest",
+          "location": "Theosoir",
+          "dlc": ""
+        },
+        {
+          "id": "quest-fly-in-the-ointment",
+          "name": "Fly in the Ointment",
+          "type": "Blade Quest",
+          "location": "Theosoir",
+          "dlc": ""
+        },
+        {
+          "id": "quest-salvage-king",
+          "name": "Salvage King",
+          "type": "",
+          "location": "Theoscaldia Palace",
+          "dlc": ""
+        },
+        {
+          "id": "quest-the-calm-and-the-storm",
+          "name": "The Calm and the Storm",
+          "type": "Blade Quest",
+          "location": "Theoscaldia Palace",
+          "dlc": ""
+        },
+        {
+          "id": "quest-corvin-s-approach",
+          "name": "Corvin's Approach",
+          "type": "Blade Quest",
+          "location": "Theoscaldia Palace",
+          "dlc": ""
+        },
+        {
+          "id": "quest-partners",
+          "name": "Partners",
+          "type": "",
+          "location": "Upper Level (Tantal)",
+          "dlc": ""
+        },
+        {
+          "id": "quest-the-lost-turtle",
+          "name": "The Lost Turtle",
+          "type": "",
+          "location": "Upper Level (Tantal)",
+          "dlc": ""
+        },
+        {
+          "id": "quest-glory-from-the-past",
+          "name": "Glory from the Past",
+          "type": "",
+          "location": "Upper Level (Tantal)",
+          "dlc": ""
+        },
+        {
+          "id": "quest-the-writer-s-assistant",
+          "name": "The Writer's Assistant",
+          "type": "",
+          "location": "Lower Level (Tantal)",
+          "dlc": ""
+        },
+        {
+          "id": "quest-stolen-keepsake",
+          "name": "Stolen Keepsake",
+          "type": "",
+          "location": "Fonsett Island",
+          "dlc": ""
+        },
+        {
+          "id": "quest-language-teacher",
+          "name": "Language Teacher",
+          "type": "",
+          "location": "Fonsett Island",
+          "dlc": ""
+        },
+        {
+          "id": "quest-science-teacher",
+          "name": "Science Teacher",
+          "type": "",
+          "location": "Fonsett Island",
+          "dlc": ""
+        },
+        {
+          "id": "quest-history-teacher",
+          "name": "History Teacher",
+          "type": "",
+          "location": "Fonsett Island",
+          "dlc": ""
+        },
+        {
+          "id": "quest-time-is-money",
+          "name": "Time is Money",
+          "type": "",
+          "location": "Fonsett Island",
+          "dlc": ""
+        },
+        {
+          "id": "quest-school-is-in-session",
+          "name": "School is in Session",
+          "type": "",
+          "location": "Fonsett Island",
+          "dlc": ""
+        },
+        {
+          "id": "quest-cleared-of-all-charges",
+          "name": "Cleared of All Charges",
+          "type": "",
+          "location": "Fonsett Island",
+          "dlc": ""
+        },
+        {
+          "id": "quest-a-phonex-tale",
+          "name": "A Phonex Tale",
+          "type": "Blade Quest",
+          "location": "Fonsett Island",
+          "dlc": ""
+        },
+        {
+          "id": "quest-bright-spark",
+          "name": "Bright Spark",
+          "type": "Blade Quest",
+          "location": "Fonsett Island",
+          "dlc": ""
+        },
+        {
+          "id": "quest-maiden-voyage",
+          "name": "Maiden Voyage",
+          "type": "",
+          "location": "Rigitte Waters",
+          "dlc": ""
+        },
+        {
+          "id": "quest-beneath-the-aurora",
+          "name": "Beneath the Aurora",
+          "type": "",
+          "location": "Rigitte Waters",
+          "dlc": ""
+        },
+        {
+          "id": "quest-merclibay-s-mightiest",
+          "name": "Merclibay's Mightiest",
+          "type": "",
+          "location": "Rigitte Waters",
+          "dlc": ""
+        },
+        {
+          "id": "quest-fool-s-gold",
+          "name": "Fool's Gold",
+          "type": "Blade Quest",
+          "location": "Rigitte Waters",
+          "dlc": ""
+        },
+        {
+          "id": "quest-at-wit-s-end",
+          "name": "At Wit's End",
+          "type": "",
+          "location": "Fonsett Waters",
+          "dlc": ""
+        },
+        {
+          "id": "quest-souvenirs-from-morytha",
+          "name": "Souvenirs from Morytha",
+          "type": "",
+          "location": "Cliffs of Morytha",
+          "dlc": ""
+        },
+        {
+          "id": "quest-timeworn-machine",
+          "name": "Timeworn Machine",
+          "type": "",
+          "location": "Land of Morytha",
+          "dlc": ""
+        },
+        {
+          "id": "quest-mystery-launch-codes",
+          "name": "Mystery Launch Codes",
+          "type": "",
+          "location": "Land of Morytha",
+          "dlc": ""
+        },
+        {
+          "id": "quest-artificial-intelligence",
+          "name": "Artificial Intelligence",
+          "type": "Blade Quest",
+          "location": "World Tree",
+          "dlc": ""
+        },
+        {
+          "id": "quest-a-simple-errand",
+          "name": "A Simple Errand",
+          "type": "Regular",
+          "location": "Lasaria Region",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-barmy-tale-of-barney",
+          "name": "Barmy Tale of Barney",
+          "type": "Regular",
+          "location": "Lasaria Region",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-what-bars-the-way",
+          "name": "What Bars the Way",
+          "type": "Main Story",
+          "location": "Lasaria Region",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-driver-coaching",
+          "name": "Driver Coaching",
+          "type": "Regular",
+          "location": "Lasaria Region",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-the-malcontent-doctor",
+          "name": "The Malcontent Doctor",
+          "type": "Regular",
+          "location": "Aletta Region",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-what-matters-most",
+          "name": "What Matters Most",
+          "type": "Regular",
+          "location": "Aletta Region",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-duplicity",
+          "name": "Duplicity",
+          "type": "Regular",
+          "location": "Aletta Region",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-making-up-the-numbers",
+          "name": "Making Up the Numbers",
+          "type": "Regular",
+          "location": "Aletta Region",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-thicker-than-water",
+          "name": "Thicker than Water",
+          "type": "Regular",
+          "location": "Aletta Region",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-the-travails-of-war",
+          "name": "The Travails of War",
+          "type": "Regular",
+          "location": "Aletta Region",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-for-lack-of-a-hunter",
+          "name": "For Lack of a Hunter",
+          "type": "Regular",
+          "location": "Aletta Region",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-feeding-an-army",
+          "name": "Feeding an Army",
+          "type": "Main Story",
+          "location": "Aletta Region",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-lett-bridge-restoration",
+          "name": "Lett Bridge Restoration",
+          "type": "Main Story",
+          "location": "Aletta Region",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-to-cross-a-desert",
+          "name": "To Cross a Desert",
+          "type": "Main Story",
+          "location": "Aletta Region",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-further-driver-coaching",
+          "name": "Further Driver Coaching",
+          "type": "Regular",
+          "location": "Aletta Region",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-fusion-coaching",
+          "name": "Fusion Coaching",
+          "type": "Regular",
+          "location": "Aletta Region",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-the-secret-of-dannagh",
+          "name": "The Secret of Dannagh",
+          "type": "Regular",
+          "location": "Dannagh Region",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-here-be-treasure",
+          "name": "Here Be Treasure?",
+          "type": "Regular",
+          "location": "Dannagh Region",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-an-oasis-for-all",
+          "name": "An Oasis for All",
+          "type": "Regular",
+          "location": "Auresco, Royal Capital",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-armus-gone-astray",
+          "name": "Armus Gone Astray",
+          "type": "Regular",
+          "location": "Auresco, Royal Capital",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-passing-the-torch",
+          "name": "Passing the Torch",
+          "type": "Regular",
+          "location": "Auresco, Royal Capital",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-forest-trail-antics",
+          "name": "Forest Trail Antics",
+          "type": "Regular",
+          "location": "Auresco, Royal Capital",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-helping-the-helper",
+          "name": "Helping the Helper",
+          "type": "Regular",
+          "location": "Auresco, Royal Capital",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-homegrown-inventor",
+          "name": "Homegrown Inventor",
+          "type": "Regular",
+          "location": "Auresco, Royal Capital",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-further-feeding-issues",
+          "name": "Further Feeding Issues",
+          "type": "Regular",
+          "location": "Auresco, Royal Capital",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-planning-for-the-future",
+          "name": "Planning for the Future",
+          "type": "Regular",
+          "location": "Auresco, Royal Capital",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-unforgotten-promise",
+          "name": "Unforgotten Promise",
+          "type": "Regular",
+          "location": "Auresco, Royal Capital",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-proof-of-love",
+          "name": "Proof of Love",
+          "type": "Regular",
+          "location": "Auresco, Royal Capital",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-bolstering-sales",
+          "name": "Bolstering Sales",
+          "type": "Regular",
+          "location": "Auresco, Royal Capital",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-trail-of-destruction",
+          "name": "Trail of Destruction",
+          "type": "Regular",
+          "location": "Auresco, Royal Capital",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-lighting-the-way",
+          "name": "Lighting the Way",
+          "type": "Regular",
+          "location": "Auresco, Royal Capital",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-a-small-promise",
+          "name": "A Small Promise",
+          "type": "Regular",
+          "location": "Auresco, Royal Capital",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-safety-measures",
+          "name": "Safety Measures",
+          "type": "Regular",
+          "location": "Auresco, Royal Capital",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-manning-the-gates",
+          "name": "Manning the Gates",
+          "type": "Regular",
+          "location": "Auresco, Royal Capital",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-what-goes-around",
+          "name": "What Goes Around",
+          "type": "Regular",
+          "location": "Auresco, Royal Capital",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-azurda-sos",
+          "name": "Azurda SOS",
+          "type": "Regular",
+          "location": "Auresco, Royal Capital",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-great-tornan-cook-off",
+          "name": "Great Tornan Cook-Off",
+          "type": "Regular",
+          "location": "Auresco, Royal Capital",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-community-spirit",
+          "name": "Community Spirit",
+          "type": "Regular",
+          "location": "Auresco, Royal Capital",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-nuts-about-bugs",
+          "name": "Nuts About Bugs",
+          "type": "Regular",
+          "location": "Auresco, Royal Capital",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-the-fish-that-could-be",
+          "name": "The Fish That Could Be",
+          "type": "Regular",
+          "location": "Auresco, Royal Capital",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-the-tornan-inventor",
+          "name": "The Tornan Inventor",
+          "type": "Regular",
+          "location": "Auresco, Royal Capital",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-the-bard-factor",
+          "name": "The Bard Factor",
+          "type": "Regular",
+          "location": "Auresco, Royal Capital",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-hungry-for-more",
+          "name": "Hungry for More",
+          "type": "Regular",
+          "location": "Auresco, Royal Capital",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-100k-in-the-red",
+          "name": "100k in the Red",
+          "type": "Regular",
+          "location": "Auresco, Royal Capital",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-hubbie-takes-a-hike",
+          "name": "Hubbie Takes a Hike",
+          "type": "Regular",
+          "location": "Auresco, Royal Capital",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-a-rare-sense-of-justice",
+          "name": "A Rare Sense of Justice",
+          "type": "Regular",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-my-first-adventure",
+          "name": "My First Adventure",
+          "type": "Regular",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-salvage-the-salvager",
+          "name": "Salvage the Salvager",
+          "type": "Regular",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-sweetest-tidings",
+          "name": "Sweetest Tidings",
+          "type": "Regular",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-the-ardainian-gunman",
+          "name": "The Ardainian Gunman",
+          "type": "Regular",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-a-taste-of-home",
+          "name": "A Taste of Home",
+          "type": "Regular",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-seeking-a-seeker",
+          "name": "Seeking a Seeker",
+          "type": "Regular",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-doc-the-miasma-slayer",
+          "name": "Doc, the Miasma Slayer",
+          "type": "Regular",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-punpun-s-rival",
+          "name": "Punpun's Rival",
+          "type": "Regular",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-power-unimaginable",
+          "name": "Power Unimaginable",
+          "type": "Main Story",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-where-s-the-boy-gone",
+          "name": "Where's the Boy Gone?",
+          "type": "Main Story",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-blade-coaching",
+          "name": "Blade Coaching",
+          "type": "Regular",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "quest-further-blade-coaching",
+          "name": "Further Blade Coaching",
+          "type": "Regular",
+          "location": "Gormott",
+          "dlc": "Torna"
+        }
+      ]
+    },
+    "heart2heart": {
+      "expected": 73,
+      "partial": false,
+      "items": [
+        {
+          "id": "h2h-a-love-too-deep",
+          "name": "A Love Too Deep",
+          "characters": "Azami, Mythra, Azami's Driver",
+          "location": "Tantal (Airborne Throne)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-a-moment-s-peace",
+          "name": "A Moment's Peace",
+          "characters": "Mòrag, Zeke, Brighid, Pandoria",
+          "location": "Leftheria (Corinne's House)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-a-thespian-s-life",
+          "name": "A Thespian's Life",
+          "characters": "Mikhail, Patroka, Mikhail's Driver",
+          "location": "Mor Ardain (Alba Cavanich)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-a-tora-and-poppi-production",
+          "name": "A Tora and Poppi Production",
+          "characters": "Rex, Nia, Tora, Dromarch, Poppi α, Azurda",
+          "location": "Uraya (Mymoma Playhouse)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-addam-s-appetite",
+          "name": "Addam's Appetite",
+          "characters": "Nia, Zeke, Mythra",
+          "location": "Tantal (Elmos Square)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-ardainian-technology",
+          "name": "Ardainian Technology",
+          "characters": "Rex, Nia, Tora, Poppi α",
+          "location": "Gormott (Armory, 2nd Floor)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-at-the-seat-of-power",
+          "name": "At the Seat of Power",
+          "characters": "Brighid, Aegaeon",
+          "location": "Mor Ardain (Throne room)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-atonement",
+          "name": "Atonement",
+          "characters": "Herald, Herald's Driver",
+          "location": "Tantal (Theospiti Temple Ruins)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-before-the-storm",
+          "name": "Before the Storm",
+          "characters": "Rex, Nia, Tora, Mòrag, Zeke",
+          "location": "First Low Orbit Station (Aion Hangar Entrance)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-bird-s-eye-view",
+          "name": "Bird's-Eye View",
+          "characters": "Finch, Dromarch, Finch's Driver",
+          "location": "Gormott (Port Balcony)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-blue-blood",
+          "name": "Blue Blood",
+          "characters": "Dagas, Tora, Poppi α, Brighid, Pandoria, Dagas's Driver",
+          "location": "Leftheria (Orl Cloudway: Fonsett)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-blushy-crushy",
+          "name": "Blushy-Crushy",
+          "characters": "Nia, Tora, Pyra, Poppi α",
+          "location": "Uraya (Waypoint Market)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-bold-adventures",
+          "name": "Bold Adventures",
+          "characters": "Rex, Tora, Poppi α, Azurda",
+          "location": "Mor Ardain (South of Cargo Transportation Zone)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-boreas-the-gourmand",
+          "name": "Boreas the Gourmand",
+          "characters": "Boreas, Tora, Boreas's Driver",
+          "location": "Gormott (Tretl Windmill Plaza)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-burgeoning-curiosity",
+          "name": "Burgeoning Curiosity",
+          "characters": "Rex, Nia, Tora, Pyra, Dromarch, Poppi α, Azurda",
+          "location": "Gormott (Melnath's Shoulder)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-by-the-graveside",
+          "name": "By the Graveside",
+          "characters": "Rex, Pyra, Azurda",
+          "location": "Leftheria (Oratory Knoll Cemetery)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-class-of-his-own",
+          "name": "Class of His Own",
+          "characters": "Perdido, Patroka, Perdido's Driver",
+          "location": "Uraya (Garfont Village)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-constants",
+          "name": "Constants",
+          "characters": "Rex, Mòrag, Brighid, Pandoria",
+          "location": "Cliffs of Morytha (Runo Cave-in)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-curse-of-the-zekenator",
+          "name": "Curse of the Zekenator",
+          "characters": "Dromarch, Brighid, Pandoria",
+          "location": "Tantal (south of Three-Vein Crossroads)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-daybreak",
+          "name": "Daybreak",
+          "characters": "KOS-MOS, Tora, Dromarch, KOS-MOS's Driver",
+          "location": "First Low Orbit Station (Storage Area Entrance)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-desolate-land",
+          "name": "Desolate Land",
+          "characters": "Floren, Floren's Driver",
+          "location": "First Low Orbit Station (road over dried lake in Elysium)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-dromarch-s-wisdom",
+          "name": "Dromarch's Wisdom",
+          "characters": "Rex, Nia, Pyra, Dromarch",
+          "location": "Mor Ardain (Nharil Central Plaza)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-eternal-rest",
+          "name": "Eternal Rest",
+          "characters": "Rex, Mòrag, Zeke, Brighid, Pandoria, Azurda",
+          "location": "Spirit Crucible Elpys (Vault of Heroes)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-family-ties",
+          "name": "Family Ties",
+          "characters": "Mòrag, Pyra, Mythra",
+          "location": "Cliffs of Morytha (Morytha Falls)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-five-centuries-of-memory",
+          "name": "Five Centuries of Memory",
+          "characters": "Rex, Nia, Mòrag, Zeke, Azurda",
+          "location": "Spirit Crucible Elpys (Canyon of Husks)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-forward-looking-woman",
+          "name": "Forward-Looking Woman",
+          "characters": "Kasandra, Kasandra's Driver",
+          "location": "Cliffs of Morytha (Gotrock Oracle Ruins)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-free-as-a-bird",
+          "name": "Free as a Bird",
+          "characters": "Obrona, Akhos, Obrona's Driver",
+          "location": "Leftheria (Isle of Urchon)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-girl-power",
+          "name": "Girl Power",
+          "characters": "Kora, Pyra, Poppi α, Brighid, Pandoria, Kora's Driver",
+          "location": "Uraya (Blossomshade Cliff)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-good-habits",
+          "name": "Good Habits",
+          "characters": "Poppi QT, Brighid",
+          "location": "Argentum (Lemour Inn)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-growing-up",
+          "name": "Growing Up",
+          "characters": "Tora, Pyra, Poppi QT",
+          "location": "Leftheria (Ansel Hatchery)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-hard-life",
+          "name": "Hard Life",
+          "characters": "Rex, Zeke, Pyra, Pandoria",
+          "location": "Gormott (Tretl Windmill Plaza)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-impassioned-thoughts",
+          "name": "Impassioned Thoughts",
+          "characters": "Agate, Tora, Poppi α, Agate's Driver",
+          "location": "World Tree (Waste Store)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-indomitable-will",
+          "name": "Indomitable Will",
+          "characters": "Perun, Perun's Driver",
+          "location": "Spirit Crucible Elpys (Stele of Judgment)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-legendary-land",
+          "name": "Legendary Land",
+          "characters": "Rex, Mòrag, Zeke",
+          "location": "World Tree (Lv. 2, Mizar: Central Deck)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-life-goes-on",
+          "name": "Life Goes On",
+          "characters": "Roc, Rex",
+          "location": "Uraya (Shrine of Light)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-little-rex",
+          "name": "Little Rex",
+          "characters": "Rex, Nia, Pyra, Azurda",
+          "location": "Leftheria (Rex's Secret Base)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-lone-wolf",
+          "name": "Lone Wolf",
+          "characters": "Sever, Cressidus, Sever's Driver",
+          "location": "Gormott (Cape Singbreeze)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-mad-about-titan-weapons",
+          "name": "Mad About Titan Weapons",
+          "characters": "Newt, Newt's Driver",
+          "location": "Mor Ardain (Hardhaigh Palace)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-morag-the-chef",
+          "name": "Mòrag the Chef",
+          "characters": "Mòrag, Pyra, Brighid",
+          "location": "Argentum (Rumbletum Canteen)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-morytha-the-unknown",
+          "name": "Morytha the Unknown",
+          "characters": "Rex, Zeke, Nia",
+          "location": "Land of Morytha (View of a Lost Time)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-muscle-power",
+          "name": "Muscle Power",
+          "characters": "Cressidus, Mikhail, Cressidus's Driver",
+          "location": "Gormott (Torigoth)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-mythra-vs-brighid",
+          "name": "Mythra Vs. Brighid",
+          "characters": "Mythra, Dromarch, Brighid",
+          "location": "Land of Morytha (in front of Fallen Skyscraper)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-nim-speak",
+          "name": "Nim-Speak",
+          "characters": "Nim, Tora, Pandoria, Nim's Driver",
+          "location": "Temperantia (Ardainian Garrison)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-not-quite-comfortable-yet",
+          "name": "Not Quite Comfortable Yet",
+          "characters": "Ursula, Tora, Ursula's Driver",
+          "location": "Uraya (Cobalt Cliffs)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-open-your-eyes",
+          "name": "Open Your Eyes",
+          "characters": "Mòrag, Zeke",
+          "location": "Tantal (Silvergleam Terrace)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-pandoria-s-troubles",
+          "name": "Pandoria's Troubles",
+          "characters": "Mòrag, Pandoria",
+          "location": "Uraya (Commercial District)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-patroka-s-predilections",
+          "name": "Patroka's Predilections",
+          "characters": "Patroka, Mythra, Akhos, Patroka's Driver",
+          "location": "Leftheria (Verde Carpentry Workshop)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-poetic-license",
+          "name": "Poetic License",
+          "characters": "Perceval, Brighid, Perceval's Driver",
+          "location": "Tantal (balcony overlooking Elmos Square)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-poppi-s-remodel",
+          "name": "Poppi's Remodel?",
+          "characters": "Tora, Pyra, Poppi α, Brighid",
+          "location": "Gormott (Tora's House)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-quantum-technochampion-pi",
+          "name": "Quantum Technochampion π",
+          "characters": "Tora, Zeke, Poppi QTπ",
+          "location": "World Tree (Lv. 2, Mizar: Lower Deck)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-reconciliation",
+          "name": "Reconciliation",
+          "characters": "Tora, Mòrag, Poppi QT, Brighid",
+          "location": "Temperantia (Titan Weapon Dig Site)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-reunion",
+          "name": "Reunion",
+          "characters": "Vess, Vess's Driver",
+          "location": "Gormott (Tretl Windmill Plaza)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-rough-diamond",
+          "name": "Rough Diamond",
+          "characters": "Praxis, Theory, Praxis's Driver",
+          "location": "Leftheria (south of Orl Cloudway: Fonsett)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-rub-a-dub-dub",
+          "name": "Rub-a-Dub-Dub",
+          "characters": "Rex, Tora, Mòrag, Zeke",
+          "location": "Mor Ardain (Smùide Hot Spring)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-self-confidence",
+          "name": "Self-Confidence",
+          "characters": "Electra, Pyra, Electra's Driver",
+          "location": "Land of Morytha (Wall Power Control Room)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-servant-of-justice",
+          "name": "Servant of Justice",
+          "characters": "Godfrey, Godfrey's Driver",
+          "location": "Tantal (Heimos's Crevasse)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-sheba-s-dream",
+          "name": "Sheba's Dream",
+          "characters": "Sheba, Pyra, Brighid, Sheba's Driver",
+          "location": "Argentum (Central Exchange)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-sisterly-love",
+          "name": "Sisterly Love",
+          "characters": "Theory, Praxis, Theory's Driver",
+          "location": "Gormott (Lyta Oasis)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-stronger-than-light",
+          "name": "Stronger Than Light",
+          "characters": "Zenobia, Mythra, Zenobia's Driver",
+          "location": "Land of Morytha (Womb Hollow)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-sweet-strategy",
+          "name": "Sweet Strategy",
+          "characters": "Gorg, Tora, Gorg's Driver",
+          "location": "Tantal (cafe down stairs from Elmos Square)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-tending-to-turters",
+          "name": "Tending to Turters",
+          "characters": "Nia, Mòrag, Pandoria",
+          "location": "Tantal (Sekis Pillar)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-the-ground-beneath-our-feet",
+          "name": "The Ground Beneath our Feet",
+          "characters": "Nia, Mòrag",
+          "location": "Mor Ardain (Grian, Wing Area #2)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-the-kindness-of-blades",
+          "name": "The Kindness of Blades",
+          "characters": "Wulfric, Tora, Wulfric's Driver",
+          "location": "Leftheria (Fonsett Residential Area)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-the-literary-life",
+          "name": "The Literary Life",
+          "characters": "Akhos, Patroka, Akhos's Driver",
+          "location": "Uraya (Olethro Playhouse)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-the-purest-beauty",
+          "name": "The Purest Beauty?",
+          "characters": "Dahlia, Brighid, Dahlia's Driver",
+          "location": "Gormott (Honeypot Grotto)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-the-real-gramps",
+          "name": "The Real Gramps",
+          "characters": "Rex, Pyra, Nia, Tora, Poppi α, Azurda",
+          "location": "Gormott (Forgotten Waste)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-top-of-the-world",
+          "name": "Top of the World",
+          "characters": "Mòrag, Zeke, Brighid, Pandoria",
+          "location": "First Low Orbit Station (Rhadamanthus Portal)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-tora-s-angst",
+          "name": "Tora's Angst",
+          "characters": "Rex, Nia, Tora, Poppi α",
+          "location": "Uraya (Farlaine Wells)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-tora-s-tribe",
+          "name": "Tora's Tribe",
+          "characters": "Rex, Tora, Poppi QTπ",
+          "location": "Mor Ardain (Central Control Room)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-unforgiving-terrain",
+          "name": "Unforgiving Terrain",
+          "characters": "Rex, Nia, Tora, Pyra, Dromarch, Poppi α, Azurda",
+          "location": "Mor Ardain (Old Industrial District)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-vale-s-weakness",
+          "name": "Vale's Weakness",
+          "characters": "Vale, Tora, Pyra, Poppi α, Vale's Driver",
+          "location": "Mor Ardain (Jakolo's Inn)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-walking-encyclopedia",
+          "name": "Walking Encyclopedia",
+          "characters": "Adenine, Adenine's Driver",
+          "location": "Argentum (Argentum Bazaar)",
+          "dlc": ""
+        },
+        {
+          "id": "h2h-what-s-in-a-name",
+          "name": "What's in a Name?",
+          "characters": "Zeke, Pyra, Pandoria",
+          "location": "Tantal (Genbu Port)",
+          "dlc": ""
+        }
+      ]
+    },
+    "blades": {
+      "expected": 53,
+      "partial": false,
+      "items": [
+        {
+          "id": "blade-adenine",
+          "name": "Adenine",
+          "element": "Wind",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-agate",
+          "name": "Agate",
+          "element": "Earth",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-azami",
+          "name": "Azami",
+          "element": "Dark",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-boreas",
+          "name": "Boreas",
+          "element": "Wind",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-dagas",
+          "name": "Dagas",
+          "element": "Fire",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-dahlia",
+          "name": "Dahlia",
+          "element": "Ice",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-electra",
+          "name": "Electra",
+          "element": "Electric",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-finch",
+          "name": "Finch",
+          "element": "Wind",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-floren",
+          "name": "Floren",
+          "element": "Earth",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-godfrey",
+          "name": "Godfrey",
+          "element": "Ice",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-gorg",
+          "name": "Gorg",
+          "element": "Water",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-herald",
+          "name": "Herald",
+          "element": "Electric",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-kasandra",
+          "name": "Kasandra",
+          "element": "Dark",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-kora",
+          "name": "Kora",
+          "element": "Electric",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-kos-mos",
+          "name": "KOS-MOS",
+          "element": "Light",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-newt",
+          "name": "Newt",
+          "element": "Fire",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-nim",
+          "name": "Nim",
+          "element": "Earth",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-perceval",
+          "name": "Perceval",
+          "element": "Dark",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-perun",
+          "name": "Perun",
+          "element": "Ice",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-praxis",
+          "name": "Praxis",
+          "element": "Water",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-sheba",
+          "name": "Sheba",
+          "element": "Water",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-t-elos",
+          "name": "T-elos",
+          "element": "Dark",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-theory",
+          "name": "Theory",
+          "element": "Ice",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-ursula",
+          "name": "Ursula",
+          "element": "Ice",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-vale",
+          "name": "Vale",
+          "element": "Dark",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-vess",
+          "name": "Vess",
+          "element": "Electric",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-wulfric",
+          "name": "Wulfric",
+          "element": "Earth",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-zenobia",
+          "name": "Zenobia",
+          "element": "Wind",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-corvin",
+          "name": "Corvin",
+          "element": "Light",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-crossette",
+          "name": "Crossette",
+          "element": "Fire",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-elma",
+          "name": "Elma",
+          "element": "Dark",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-fiora",
+          "name": "Fiora",
+          "element": "Wind",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-poppibuster",
+          "name": "Poppibuster",
+          "element": "Light",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-shulk",
+          "name": "Shulk",
+          "element": "Light",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-akhos",
+          "name": "Akhos",
+          "element": "Electric",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-cressidus",
+          "name": "Cressidus",
+          "element": "Earth",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-mikhail",
+          "name": "Mikhail",
+          "element": "Dark",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-obrona",
+          "name": "Obrona",
+          "element": "Electric",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-patroka",
+          "name": "Patroka",
+          "element": "Earth",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-perdido",
+          "name": "Perdido",
+          "element": "Fire",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-sever",
+          "name": "Sever",
+          "element": "Wind",
+          "rarity": "Rare",
+          "driver": ""
+        },
+        {
+          "id": "blade-aegaeon",
+          "name": "Aegaeon",
+          "element": "Water",
+          "rarity": "Legendary",
+          "driver": "Mòrag"
+        },
+        {
+          "id": "blade-brighid",
+          "name": "Brighid",
+          "element": "Fire",
+          "rarity": "Legendary",
+          "driver": "Mòrag"
+        },
+        {
+          "id": "blade-dromarch",
+          "name": "Dromarch",
+          "element": "Water",
+          "rarity": "Legendary",
+          "driver": "Nia"
+        },
+        {
+          "id": "blade-mythra",
+          "name": "Mythra",
+          "element": "Light",
+          "rarity": "Legendary",
+          "driver": "Rex"
+        },
+        {
+          "id": "blade-catalyst",
+          "name": "Catalyst",
+          "element": "Water",
+          "rarity": "Legendary",
+          "driver": "Nia"
+        },
+        {
+          "id": "blade-pandoria",
+          "name": "Pandoria",
+          "element": "Electric",
+          "rarity": "Legendary",
+          "driver": "Mòrag"
+        },
+        {
+          "id": "blade-pneuma",
+          "name": "Pneuma",
+          "element": "Light",
+          "rarity": "Legendary",
+          "driver": "Rex"
+        },
+        {
+          "id": "blade-poppi-qt",
+          "name": "Poppi QT",
+          "element": "Fire",
+          "rarity": "Legendary",
+          "driver": "Tora"
+        },
+        {
+          "id": "blade-poppi-qtpi",
+          "name": "Poppi QTπ",
+          "element": "Ice",
+          "rarity": "Legendary",
+          "driver": "Tora"
+        },
+        {
+          "id": "blade-poppi-alpha",
+          "name": "Poppi α",
+          "element": "Earth",
+          "rarity": "Legendary",
+          "driver": "Tora"
+        },
+        {
+          "id": "blade-pyra",
+          "name": "Pyra",
+          "element": "Fire",
+          "rarity": "Legendary",
+          "driver": "Rex"
+        },
+        {
+          "id": "blade-roc",
+          "name": "Roc",
+          "element": "Wind",
+          "rarity": "Legendary",
+          "driver": "Mòrag"
+        }
+      ]
+    },
+    "mercmissions": {
+      "expected": 274,
+      "partial": true,
+      "items": [
+        {
+          "id": "merc-unloading-of-goods",
+          "name": "Unloading of Goods",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-crane-repairs",
+          "name": "Crane Repairs",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-salvaging-security",
+          "name": "Salvaging Security",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-nopon-veggie-stir-fry",
+          "name": "Nopon Veggie Stir-Fry",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-canteen-job",
+          "name": "Canteen Job",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-port-pest-problem",
+          "name": "Port Pest Problem",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-grounded-ship-rescue",
+          "name": "Grounded Ship Rescue",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-ship-snooping",
+          "name": "Ship Snooping",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-avoiding-heavy-losses",
+          "name": "Avoiding Heavy Losses",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-money-money-money",
+          "name": "Money, Money, Money",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-flying-monsters",
+          "name": "Flying Monsters",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-big-catch-opportunity",
+          "name": "Big Catch Opportunity",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-crane-protection",
+          "name": "Crane Protection",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-nopon-news",
+          "name": "Nopon News",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-deck-duty",
+          "name": "Deck Duty",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-sunken-ship-survey",
+          "name": "Sunken Ship Survey",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-big-ship-escort",
+          "name": "Big Ship Escort",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-cooking-up-a-feast",
+          "name": "Cooking Up a Feast",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-creature-of-the-depths",
+          "name": "Creature of the Depths",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-lifesaving",
+          "name": "Lifesaving",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-vocal-lesson-1",
+          "name": "Vocal Lesson 1",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-vocal-lesson-2",
+          "name": "Vocal Lesson 2",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-vocal-lesson-3",
+          "name": "Vocal Lesson 3",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-vocal-lesson-4",
+          "name": "Vocal Lesson 4",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-vocal-lesson-5",
+          "name": "Vocal Lesson 5",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-looks-lesson-1",
+          "name": "Looks Lesson 1",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-looks-lesson-2",
+          "name": "Looks Lesson 2",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-looks-lesson-3",
+          "name": "Looks Lesson 3",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-looks-lesson-4",
+          "name": "Looks Lesson 4",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-looks-lesson-5",
+          "name": "Looks Lesson 5",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-soul-lesson-1",
+          "name": "Soul Lesson 1",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-soul-lesson-2",
+          "name": "Soul Lesson 2",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-soul-lesson-3",
+          "name": "Soul Lesson 3",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-soul-lesson-4",
+          "name": "Soul Lesson 4",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-soul-lesson-5",
+          "name": "Soul Lesson 5",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-titan-battleship-fixes",
+          "name": "Titan Battleship Fixes",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-long-awaited-work",
+          "name": "Long-Awaited Work",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-cooking-display",
+          "name": "Cooking Display",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-new-sounds",
+          "name": "New Sounds",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-first-class-freshness",
+          "name": "First Class Freshness!",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-old-routes",
+          "name": "Old Routes",
+          "region": "Argentum",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-on-the-son-s-trail",
+          "name": "On the Son's Trail!",
+          "region": "Argentum",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-three-parts",
+          "name": "Three Parts",
+          "region": "Argentum",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-child-disappearances",
+          "name": "Child Disappearances",
+          "region": "Argentum",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-sparkly-costumes",
+          "name": "Sparkly Costumes",
+          "region": "Argentum",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-song-selection",
+          "name": "Song Selection",
+          "region": "Argentum",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-luxury-stage",
+          "name": "Luxury Stage",
+          "region": "Argentum",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-rehearsal",
+          "name": "Rehearsal",
+          "region": "Argentum",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-nopon-pop-stars",
+          "name": "Nopon Pop Stars",
+          "region": "Argentum",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-special-concert",
+          "name": "Special Concert",
+          "region": "Argentum",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-black-nopon-search",
+          "name": "Black Nopon Search",
+          "region": "Argentum",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-adenine-s-password",
+          "name": "Adenine's Password",
+          "region": "Argentum",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-zenobia-s-enemy-1",
+          "name": "Zenobia's Enemy 1",
+          "region": "Argentum",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-we-need-to-talk",
+          "name": "We Need To Talk!",
+          "region": "Argentum",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-tome-of-morytha-vol-2",
+          "name": "Tome of Morytha Vol. 2",
+          "region": "Argentum",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-tome-of-morytha-vol-4",
+          "name": "Tome of Morytha Vol. 4",
+          "region": "Argentum",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-tome-of-morytha-vol-3",
+          "name": "Tome of Morytha Vol. 3",
+          "region": "Argentum",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-tome-of-morytha-vol-1",
+          "name": "Tome of Morytha Vol. 1",
+          "region": "Argentum",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-woodworking",
+          "name": "Woodworking",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-modeling-work",
+          "name": "Modeling Work",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-landslide-prevention",
+          "name": "Landslide Prevention",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-harvest-help",
+          "name": "Harvest Help",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-field-devastation",
+          "name": "Field Devastation",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-mannam-juice-delivery",
+          "name": "Mannam Juice Delivery",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-wood-gathering",
+          "name": "Wood Gathering",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-armu-retrieval",
+          "name": "Armu Retrieval",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-test-of-courage",
+          "name": "Test of Courage",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-forest-fire-prevention",
+          "name": "Forest Fire Prevention",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-stranded-merchant",
+          "name": "Stranded Merchant",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-gormott-secret-area",
+          "name": "Gormott Secret Area",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-protect-the-holy-place",
+          "name": "Protect the Holy Place",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-phonex-escort",
+          "name": "Phonex Escort",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-mock-maneuvers",
+          "name": "Mock Maneuvers",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-arrest-warrant",
+          "name": "Arrest Warrant",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-rebel-purge",
+          "name": "Rebel Purge",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-wine-delivery",
+          "name": "Wine Delivery",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-phantom-fruit",
+          "name": "Phantom Fruit",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-weird-water",
+          "name": "Weird Water",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-energy-for-remodeling",
+          "name": "Energy for Remodeling",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-manufacture-help",
+          "name": "Manufacture Help",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-turf-war-protection",
+          "name": "Turf War Protection",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-raddon-family",
+          "name": "Raddon Family",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-renowned-goods",
+          "name": "Renowned Goods",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-the-water-city",
+          "name": "The Water City",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-farming-tech",
+          "name": "Farming Tech",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-shipbuilding-wood",
+          "name": "Shipbuilding Wood",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-craftsman-s-skills",
+          "name": "Craftsman's Skills",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-titan-shipbuilding",
+          "name": "Titan Shipbuilding",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-meet-and-greet",
+          "name": "Meet and Greet",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-local-pop-star",
+          "name": "Local Pop Star?",
+          "region": "Gormott",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-zenobia-s-enemy-2",
+          "name": "Zenobia's Enemy 2",
+          "region": "Gormott",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-tirkin-kountess-1",
+          "name": "Tirkin Kountess 1",
+          "region": "Gormott",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-allies-of-justice-2",
+          "name": "Allies of Justice 2",
+          "region": "Gormott",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-chase-is-on",
+          "name": "Chase Is On",
+          "region": "Gormott",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-got-em",
+          "name": "Got 'Em",
+          "region": "Gormott",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-unreturnable-money",
+          "name": "Unreturnable Money",
+          "region": "Gormott",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-flotsam-inspection",
+          "name": "Flotsam Inspection",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-lost-and-found",
+          "name": "Lost and Found",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-containing-the-chaos",
+          "name": "Containing the Chaos",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-beautiful-pearl",
+          "name": "Beautiful Pearl",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-igna-investigation",
+          "name": "Igna Investigation",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-rogue-miners",
+          "name": "Rogue Miners",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-warehouse-work",
+          "name": "Warehouse Work",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-king-of-the-spring",
+          "name": "King of the Spring",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-daily-training",
+          "name": "Daily Training",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-giant-crab-attack",
+          "name": "Giant Crab Attack",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-goods-transport",
+          "name": "Goods Transport",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-art-supplies",
+          "name": "Art Supplies",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-water-quality-check",
+          "name": "Water Quality Check",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-wonderful-stage",
+          "name": "Wonderful Stage",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-road-repairs",
+          "name": "Road Repairs",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-rare-goods-repairs",
+          "name": "Rare Goods Repairs",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-dream-of-rice",
+          "name": "Dream of Rice",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-fort-rescue",
+          "name": "Fort Rescue",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-source-security",
+          "name": "Source Security",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-desserts-delivered-1",
+          "name": "Desserts Delivered 1",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-desserts-delivered-2",
+          "name": "Desserts Delivered 2",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-desserts-delivered-3",
+          "name": "Desserts Delivered 3",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-desserts-delivered-4",
+          "name": "Desserts Delivered 4",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-desserts-delivered-5",
+          "name": "Desserts Delivered 5",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-urayan-crash-course",
+          "name": "Urayan Crash Course",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-green-thumbed-mercs",
+          "name": "Green-Thumbed Mercs",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-aristocratic-security",
+          "name": "Aristocratic Security",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-rainbow-shell",
+          "name": "Rainbow Shell",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-fad-foods",
+          "name": "Fad Foods",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-bumper-crop",
+          "name": "Bumper Crop",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-shipping-lanes-closed",
+          "name": "Shipping Lanes Closed",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-secret-route",
+          "name": "Secret Route",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-beneath-the-cloud-sea",
+          "name": "Beneath the Cloud Sea",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-latest-craze",
+          "name": "Latest Craze",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-gormotti-fugitive",
+          "name": "Gormotti Fugitive",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-skillful-doctor",
+          "name": "Skillful Doctor",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-surveillance",
+          "name": "Surveillance",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-fashion-show",
+          "name": "Fashion Show",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-stage-star",
+          "name": "Stage Star",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-invitation-from-queen",
+          "name": "Invitation from Queen",
+          "region": "Uraya",
+          "kind": ""
+        },
+        {
+          "id": "merc-zenobia-s-enemy-3",
+          "name": "Zenobia's Enemy 3",
+          "region": "Uraya",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-tirkin-kountess-3",
+          "name": "Tirkin Kountess 3",
+          "region": "Uraya",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-herald-search",
+          "name": "Herald Search",
+          "region": "Uraya",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-allies-of-justice-1",
+          "name": "Allies of Justice 1",
+          "region": "Uraya",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-allies-of-justice-3",
+          "name": "Allies of Justice 3",
+          "region": "Uraya",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-beautiful-flower",
+          "name": "Beautiful Flower",
+          "region": "Uraya",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-first-mission",
+          "name": "First Mission",
+          "region": "Uraya",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-whose-pendant",
+          "name": "Whose Pendant?",
+          "region": "Uraya",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-the-pendant-s-owner",
+          "name": "The Pendant's Owner",
+          "region": "Uraya",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-document-of-worth",
+          "name": "Document of Worth",
+          "region": "Uraya",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-bait-battle",
+          "name": "Bait Battle",
+          "region": "Uraya",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-everyone-loves-floren",
+          "name": "Everyone Loves Floren",
+          "region": "Uraya",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-trial-run-1",
+          "name": "Trial Run 1",
+          "region": "Uraya",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-trial-run-2",
+          "name": "Trial Run 2",
+          "region": "Uraya",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-wedding-invitation",
+          "name": "Wedding Invitation",
+          "region": "Uraya",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-cooking-spices",
+          "name": "Cooking Spices",
+          "region": "Mor Ardain",
+          "kind": ""
+        },
+        {
+          "id": "merc-lunch-of-love",
+          "name": "Lunch of Love",
+          "region": "Mor Ardain",
+          "kind": ""
+        },
+        {
+          "id": "merc-titan-weaponry",
+          "name": "Titan Weaponry",
+          "region": "Mor Ardain",
+          "kind": ""
+        },
+        {
+          "id": "merc-vip-escort",
+          "name": "VIP Escort",
+          "region": "Mor Ardain",
+          "kind": ""
+        },
+        {
+          "id": "merc-pest-extermination",
+          "name": "Pest Extermination",
+          "region": "Mor Ardain",
+          "kind": ""
+        },
+        {
+          "id": "merc-gondola-inspection",
+          "name": "Gondola Inspection",
+          "region": "Mor Ardain",
+          "kind": ""
+        },
+        {
+          "id": "merc-nopon-letter",
+          "name": "Nopon Letter",
+          "region": "Mor Ardain",
+          "kind": ""
+        },
+        {
+          "id": "merc-antique-judgment",
+          "name": "Antique Judgment",
+          "region": "Mor Ardain",
+          "kind": ""
+        },
+        {
+          "id": "merc-burned-wanted-posters",
+          "name": "Burned Wanted Posters",
+          "region": "Mor Ardain",
+          "kind": ""
+        },
+        {
+          "id": "merc-mining-machine",
+          "name": "Mining Machine",
+          "region": "Mor Ardain",
+          "kind": ""
+        },
+        {
+          "id": "merc-titan-research",
+          "name": "Titan Research",
+          "region": "Mor Ardain",
+          "kind": ""
+        },
+        {
+          "id": "merc-longing-for-morag",
+          "name": "Longing for Mòrag",
+          "region": "Mor Ardain",
+          "kind": ""
+        },
+        {
+          "id": "merc-illegal-dumper",
+          "name": "Illegal Dumper",
+          "region": "Mor Ardain",
+          "kind": ""
+        },
+        {
+          "id": "merc-acquiring-rare-parts",
+          "name": "Acquiring Rare Parts",
+          "region": "Mor Ardain",
+          "kind": ""
+        },
+        {
+          "id": "merc-street-patrols",
+          "name": "Street Patrols",
+          "region": "Mor Ardain",
+          "kind": ""
+        },
+        {
+          "id": "merc-scientific-development",
+          "name": "Scientific Development",
+          "region": "Mor Ardain",
+          "kind": ""
+        },
+        {
+          "id": "merc-hot-nopon",
+          "name": "Hot Nopon",
+          "region": "Mor Ardain",
+          "kind": ""
+        },
+        {
+          "id": "merc-smuggler-arrest",
+          "name": "Smuggler Arrest",
+          "region": "Mor Ardain",
+          "kind": ""
+        },
+        {
+          "id": "merc-volff-tricks",
+          "name": "Volff Tricks",
+          "region": "Mor Ardain",
+          "kind": ""
+        },
+        {
+          "id": "merc-spooky-spirits",
+          "name": "Spooky Spirits",
+          "region": "Mor Ardain",
+          "kind": ""
+        },
+        {
+          "id": "merc-lifeline-to-temperantia",
+          "name": "Lifeline to Temperantia",
+          "region": "Mor Ardain",
+          "kind": ""
+        },
+        {
+          "id": "merc-showdown-at-chilsain",
+          "name": "Showdown at Chilsain",
+          "region": "Mor Ardain",
+          "kind": ""
+        },
+        {
+          "id": "merc-secret-spice",
+          "name": "Secret Spice",
+          "region": "Mor Ardain",
+          "kind": ""
+        },
+        {
+          "id": "merc-shipyard-security",
+          "name": "Shipyard Security",
+          "region": "Mor Ardain",
+          "kind": ""
+        },
+        {
+          "id": "merc-shipping-lane-safety",
+          "name": "Shipping Lane Safety",
+          "region": "Mor Ardain",
+          "kind": ""
+        },
+        {
+          "id": "merc-white-and-cold",
+          "name": "White and Cold",
+          "region": "Mor Ardain",
+          "kind": ""
+        },
+        {
+          "id": "merc-cold-storage",
+          "name": "Cold Storage",
+          "region": "Mor Ardain",
+          "kind": ""
+        },
+        {
+          "id": "merc-find-akatsuki",
+          "name": "Find Akatsuki",
+          "region": "Mor Ardain",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-smuggle-the-scholar",
+          "name": "Smuggle the Scholar",
+          "region": "Mor Ardain",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-stolen-data",
+          "name": "Stolen Data",
+          "region": "Mor Ardain",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-medicine-knowledge",
+          "name": "Medicine Knowledge",
+          "region": "Mor Ardain",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-brought-to-justice-1",
+          "name": "Brought to Justice 1",
+          "region": "Mor Ardain",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-brought-to-justice-2",
+          "name": "Brought to Justice 2",
+          "region": "Mor Ardain",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-brought-to-justice-3",
+          "name": "Brought to Justice 3",
+          "region": "Mor Ardain",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-brought-to-justice-4",
+          "name": "Brought to Justice 4",
+          "region": "Mor Ardain",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-unjust-organization",
+          "name": "Unjust Organization",
+          "region": "Mor Ardain",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-false-rumor",
+          "name": "False Rumor",
+          "region": "Mor Ardain",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-ambush",
+          "name": "Ambush",
+          "region": "Mor Ardain",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-leg-it",
+          "name": "Leg it!",
+          "region": "Mor Ardain",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-summer-concert",
+          "name": "Summer Concert",
+          "region": "Mor Ardain",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-invitation-from-emperor",
+          "name": "Invitation from Emperor",
+          "region": "Mor Ardain",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-sheba-s-tea-party-1",
+          "name": "Sheba's Tea Party 1",
+          "region": "Mor Ardain",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-sheba-s-tea-party-2",
+          "name": "Sheba's Tea Party 2",
+          "region": "Mor Ardain",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-sheba-s-tea-party-3",
+          "name": "Sheba's Tea Party 3",
+          "region": "Mor Ardain",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-sheba-s-tea-party-4",
+          "name": "Sheba's Tea Party 4",
+          "region": "Mor Ardain",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-sheba-s-tea-party-5",
+          "name": "Sheba's Tea Party 5",
+          "region": "Mor Ardain",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-zenobia-s-enemy-4",
+          "name": "Zenobia's Enemy 4",
+          "region": "Mor Ardain",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-tirkin-kountess-2",
+          "name": "Tirkin Kountess 2",
+          "region": "Mor Ardain",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-allies-of-justice-5",
+          "name": "Allies of Justice 5",
+          "region": "Mor Ardain",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-round-up",
+          "name": "Round Up",
+          "region": "Mor Ardain",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-materials-stakeout",
+          "name": "Materials Stakeout",
+          "region": "Mor Ardain",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-graveside-flowers",
+          "name": "Graveside Flowers",
+          "region": "Leftheria",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-heavy-angling",
+          "name": "Heavy Angling",
+          "region": "Leftheria",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-lost-property",
+          "name": "Lost Property",
+          "region": "Leftheria",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-field-pests",
+          "name": "Field Pests",
+          "region": "Leftheria",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-parisax-extermination",
+          "name": "Parisax Extermination",
+          "region": "Leftheria",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-pending-payout",
+          "name": "Pending Payout",
+          "region": "Leftheria",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-shellfish-savior",
+          "name": "Shellfish Savior",
+          "region": "Leftheria",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-memory-bracelet",
+          "name": "Memory Bracelet",
+          "region": "Leftheria",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-rex-s-condition",
+          "name": "Rex's Condition",
+          "region": "Leftheria",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-suspicious-ship",
+          "name": "Suspicious Ship",
+          "region": "Leftheria",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-dringworm-hunting",
+          "name": "Dringworm Hunting",
+          "region": "Leftheria",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-yashima-festival",
+          "name": "Yashima Festival",
+          "region": "Leftheria",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-energy-investigation",
+          "name": "Energy Investigation",
+          "region": "Leftheria",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-night-visitors",
+          "name": "Night Visitors",
+          "region": "Leftheria",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-elpys-investigation",
+          "name": "Elpys Investigation",
+          "region": "Leftheria",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-cloud-sea-noises",
+          "name": "Cloud Sea Noises",
+          "region": "Leftheria",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-direct-line-escort",
+          "name": "Direct Line Escort",
+          "region": "Leftheria",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-reclamation",
+          "name": "Reclamation",
+          "region": "Leftheria",
+          "kind": ""
+        },
+        {
+          "id": "merc-seeding",
+          "name": "Seeding",
+          "region": "Leftheria",
+          "kind": ""
+        },
+        {
+          "id": "merc-growing",
+          "name": "Growing",
+          "region": "Leftheria",
+          "kind": ""
+        },
+        {
+          "id": "merc-round-2-at-merclibay",
+          "name": "Round 2 at Merclibay",
+          "region": "Leftheria",
+          "kind": ""
+        },
+        {
+          "id": "merc-nopon-cooking",
+          "name": "Nopon Cooking",
+          "region": "Leftheria",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-merchant-ship",
+          "name": "Merchant Ship",
+          "region": "Leftheria",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-ship-lane-lighting",
+          "name": "Ship Lane Lighting",
+          "region": "Leftheria",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-wagon-guard",
+          "name": "Wagon Guard",
+          "region": "Leftheria",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-sinking-storehouse",
+          "name": "Sinking Storehouse?",
+          "region": "Leftheria",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-the-beast-of-regideria",
+          "name": "The Beast of Regideria",
+          "region": "Leftheria",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-allies-of-justice-4",
+          "name": "Allies of Justice 4",
+          "region": "Leftheria",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-can-t-escape",
+          "name": "Can't Escape",
+          "region": "Leftheria",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-obstinate-pursuit",
+          "name": "Obstinate Pursuit",
+          "region": "Leftheria",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-catch-a-crook",
+          "name": "Catch a Crook",
+          "region": "Leftheria",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-guard-the-field",
+          "name": "Guard the Field",
+          "region": "Leftheria",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-extract-a-confession",
+          "name": "Extract a Confession",
+          "region": "Leftheria",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-electra-s-strategy",
+          "name": "Electra's Strategy",
+          "region": "Leftheria",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-zenobia-s-strategy",
+          "name": "Zenobia's Strategy",
+          "region": "Leftheria",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-heavy-angling-2",
+          "name": "Heavy Angling",
+          "region": "Indol",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-taminbi-theft",
+          "name": "Taminbi Theft",
+          "region": "Indol",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-insect-professor",
+          "name": "Insect Professor",
+          "region": "Indol",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-vessel-scrapping",
+          "name": "Vessel Scrapping",
+          "region": "Indol",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-research-results",
+          "name": "Research Results",
+          "region": "Indol",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-holy-choir",
+          "name": "Holy Choir",
+          "region": "Indol",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-benefit-concert",
+          "name": "Benefit Concert",
+          "region": "Indol",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-ether-furnace-checks",
+          "name": "Ether Furnace Checks",
+          "region": "Tantal",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-children-s-snowsuit",
+          "name": "Children's Snowsuit",
+          "region": "Tantal",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-snow-removal",
+          "name": "Snow Removal",
+          "region": "Tantal",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-exiting-tantal",
+          "name": "Exiting Tantal",
+          "region": "Tantal",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-warming-stralu",
+          "name": "Warming Stralu",
+          "region": "Tantal",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-snow-flower",
+          "name": "Snow Flower",
+          "region": "Tantal",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-carnivorous-beast",
+          "name": "Carnivorous Beast",
+          "region": "Tantal",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-new-book",
+          "name": "New Book",
+          "region": "Tantal",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-blizzard-zone",
+          "name": "Blizzard Zone",
+          "region": "Tantal",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-cold-proof-crops",
+          "name": "Cold-Proof Crops",
+          "region": "Tantal",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-military-training",
+          "name": "Military Training",
+          "region": "Tantal",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-the-black-market",
+          "name": "The Black Market",
+          "region": "Tantal",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-dandes-salt-cave",
+          "name": "Dandes Salt Cave",
+          "region": "Tantal",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-snow-survey",
+          "name": "Snow Survey",
+          "region": "Tantal",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-shaking-icicles",
+          "name": "Shaking Icicles",
+          "region": "Tantal",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-confidential-documents",
+          "name": "Confidential Documents",
+          "region": "Tantal",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-book-writing",
+          "name": "Book Writing",
+          "region": "Tantal",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-world-in-a-book",
+          "name": "World in a Book",
+          "region": "Tantal",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-ice-hunter",
+          "name": "Ice Hunter",
+          "region": "Tantal",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-mysterious-lifeform",
+          "name": "Mysterious Lifeform",
+          "region": "Tantal",
+          "kind": "Regular"
+        },
+        {
+          "id": "merc-crossing-bridges",
+          "name": "Crossing Bridges",
+          "region": "Tantal",
+          "kind": ""
+        },
+        {
+          "id": "merc-arach-no-more",
+          "name": "Arach-no-More",
+          "region": "Tantal",
+          "kind": ""
+        },
+        {
+          "id": "merc-frozen-door",
+          "name": "Frozen Door",
+          "region": "Tantal",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-weathered-ship",
+          "name": "Weathered Ship",
+          "region": "Tantal",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-cuisine-researcher",
+          "name": "Cuisine Researcher",
+          "region": "Tantal",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-beat-the-heat",
+          "name": "Beat the Heat",
+          "region": "Tantal",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-crafty-developments",
+          "name": "Crafty Developments",
+          "region": "Tantal",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-tirkin-kountess-4",
+          "name": "Tirkin Kountess 4",
+          "region": "Tantal",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-allies-of-justice-6",
+          "name": "Allies of Justice 6",
+          "region": "Tantal",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-fake-vase",
+          "name": "Fake Vase",
+          "region": "Tantal",
+          "kind": "Event"
+        },
+        {
+          "id": "merc-finch-s-big-news",
+          "name": "Finch's Big News",
+          "region": "Tantal",
+          "kind": "Event"
+        }
+      ]
+    },
+    "community": {
+      "expected": 89,
+      "partial": false,
+      "items": [
+        {
+          "id": "community-aquin",
+          "name": "Aquin",
+          "title": "Harried shipwright",
+          "location": "Yanchik Harbor",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-arb",
+          "name": "Arb",
+          "title": "Refined retiree",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-augustus",
+          "name": "Augustus",
+          "title": "Chief Urayan overseer",
+          "location": "Uraya",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-azurda",
+          "name": "Azurda",
+          "title": "Wise old Titan",
+          "location": "Uraya",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-azzarn",
+          "name": "Azzarn",
+          "title": "Traveling performer #2",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-bathein",
+          "name": "Bathein",
+          "title": "8th Decade footsoldier",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-benny",
+          "name": "Benny",
+          "title": "Pure kid",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-brogyn",
+          "name": "Brogyn",
+          "title": "Shifty quartermaster",
+          "location": "Yanchik Harbor",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-bry",
+          "name": "Bry",
+          "title": "Loyalist gardener",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-buzz",
+          "name": "Buzz",
+          "title": "Hyber Huntsman",
+          "location": "Hyber",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-carnelian",
+          "name": "Carnelian",
+          "title": "Well-groomed guard",
+          "location": "Auresco",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-chalcedony",
+          "name": "Chalcedony",
+          "title": "Anxious guard",
+          "location": "Auresco",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-charlet",
+          "name": "Charlet",
+          "title": "Apprentice glassmaker",
+          "location": "Auresco",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-chica",
+          "name": "Chica",
+          "title": "Spirited fishmonger",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-clarke",
+          "name": "Clarke",
+          "title": "Slacker soldier",
+          "location": "Yanchik Harbor",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-clemens",
+          "name": "Clemens",
+          "title": "Aureus Palace guard",
+          "location": "Auresco",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-dekudeku",
+          "name": "Dekudeku",
+          "title": "Nopon traveler",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-doc",
+          "name": "Doc",
+          "title": "Erudite adventurer",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-dolala",
+          "name": "Dolala",
+          "title": "Big Dreamer",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-dudan",
+          "name": "Dudan",
+          "title": "Aspiring salvager",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-elba",
+          "name": "Elba",
+          "title": "Zealous warrior",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-freja",
+          "name": "Freja",
+          "title": "Ailing girl",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-fred",
+          "name": "Fred",
+          "title": "Spefan Inn proprietor",
+          "location": "Hyber",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-gedd",
+          "name": "Gedd",
+          "title": "Captain's apprentice",
+          "location": "Yanchik Harbor",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-gideon",
+          "name": "Gideon",
+          "title": "Loopy inventor",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-gio",
+          "name": "Gio",
+          "title": "Jack of all trades",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-hal-jarque",
+          "name": "Hal Jarque",
+          "title": "White Chair envoy",
+          "location": "Auresco",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-harman",
+          "name": "Harman",
+          "title": "Angling enthusiast",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-hassan",
+          "name": "Hassan",
+          "title": "Homesick mechanic",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-hedwyn",
+          "name": "Hedwyn",
+          "title": "Chief Gormotti overseer",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-isabella",
+          "name": "Isabella",
+          "title": "Barney Stone seeker",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-jerry",
+          "name": "Jerry",
+          "title": "Earnest warrior",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-joey",
+          "name": "Joey",
+          "title": "Scruffy Armu herder",
+          "location": "Hyber",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-kaeda",
+          "name": "Kaeda",
+          "title": "No-nonsense Blade",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-kaleena",
+          "name": "Kaleena",
+          "title": "Militia servicewoman",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-kali",
+          "name": "Kali",
+          "title": "Responsible boy",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-kaym",
+          "name": "Kaym",
+          "title": "Gardener's son",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-kelly",
+          "name": "Kelly",
+          "title": "Innocent girl",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-krogane",
+          "name": "Krogane",
+          "title": "Cracker jack Blade",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-lavinia",
+          "name": "Lavinia",
+          "title": "Robber queen",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-leo",
+          "name": "Leo",
+          "title": "Traveling performer #1",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-luc",
+          "name": "Luc",
+          "title": "Passionate Youngster",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-lyta",
+          "name": "Lyta",
+          "title": "Newbie Driver",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-macmac",
+          "name": "Macmac",
+          "title": "Emissary of justice",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-macneth",
+          "name": "MacNeth",
+          "title": "Ex-Coeian spy",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-maquilla",
+          "name": "Maquilla",
+          "title": "Titan ship Helmswoman",
+          "location": "Yanchik Harbor",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-marcus",
+          "name": "Marcus",
+          "title": "Insect-loving boy",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-marena",
+          "name": "Marena",
+          "title": "Concerned mother",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-martha",
+          "name": "Martha",
+          "title": "Monster granny",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-maulton",
+          "name": "Maulton",
+          "title": "Journeyman chef",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-mauna",
+          "name": "Mauna",
+          "title": "Kindly greengrocer",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-mikhail",
+          "name": "Mikhail",
+          "title": "War orphan",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-milton",
+          "name": "Milton",
+          "title": "Addam's attendant",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-mini",
+          "name": "Mini",
+          "title": "Cheerful Adventurer",
+          "location": "Hyber",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-mireille",
+          "name": "Mireille",
+          "title": "Elderly potter",
+          "location": "Hyber",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-momimi",
+          "name": "Momimi",
+          "title": "Pyrithium guildmember",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-morumo",
+          "name": "Morumo",
+          "title": "Trader chairman",
+          "location": "Auresco",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-mungo",
+          "name": "Mungo",
+          "title": "Medical professional",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-nalsaz",
+          "name": "Nalsaz",
+          "title": "Elite lover-adventurer",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-nittle",
+          "name": "Nittle",
+          "title": "Loyal subject",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-noowl",
+          "name": "Noowl",
+          "title": "Addam's devotee",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-nopon-halfsage",
+          "name": "Nopon Halfsage",
+          "title": "Avatar of greed",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-obibi",
+          "name": "Obibi",
+          "title": "Cloth merchant",
+          "location": "Auresco",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-ofa",
+          "name": "Ofa",
+          "title": "Woman of leisure",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-omnom",
+          "name": "Omnom",
+          "title": "Number one gourmet",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-onyx",
+          "name": "Onyx",
+          "title": "Squad leader",
+          "location": "Auresco",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-palva",
+          "name": "Palva",
+          "title": "Greedy adventurer",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-piper",
+          "name": "Piper",
+          "title": "Musical artisan",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-popolo",
+          "name": "Popolo",
+          "title": "Chairman's secretary",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-punpun",
+          "name": "Punpun",
+          "title": "Peaceable adventurer",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-rikoko",
+          "name": "Rikoko",
+          "title": "Amateur flautist",
+          "location": "Gormott",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-rolipoli",
+          "name": "Rolipoli",
+          "title": "Cracker jack merc",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-rooroo",
+          "name": "Rooroo",
+          "title": "Head Muskerpon",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-sarah",
+          "name": "Sarah",
+          "title": "Young art dealer",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-shanelle",
+          "name": "Shanelle",
+          "title": "Tactless adventurer",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-sorrel",
+          "name": "Sorrel",
+          "title": "Cafe Amicus owner",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-tarath",
+          "name": "Tarath",
+          "title": "Overserious soldier",
+          "location": "Uraya",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-teeco",
+          "name": "Teeco",
+          "title": "Spefan Inn mascot",
+          "location": "Hyber",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-teo",
+          "name": "Teo",
+          "title": "Hyber's innkeeper",
+          "location": "Hyber",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-tranc",
+          "name": "Tranc",
+          "title": "Capital weaponsmith",
+          "location": "Auresco",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-tyler",
+          "name": "Tyler",
+          "title": "Fish farmer",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-vez",
+          "name": "Vez",
+          "title": "Addam's retainer",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-vient-horrison",
+          "name": "Vient Horrison",
+          "title": "Straitlaced diplomat",
+          "location": "Auresco",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-vill-ethelmar",
+          "name": "Vill Ethelmar",
+          "title": "Special Inquisitor",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-vronka",
+          "name": "Vronka",
+          "title": "Militia lieutenant",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-wayton",
+          "name": "Wayton",
+          "title": "Temperamental builder",
+          "location": "Hyber",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-yrissa",
+          "name": "Yrissa",
+          "title": "Capital accessorizer",
+          "location": "Auresco",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-yrrith",
+          "name": "Yrrith",
+          "title": "3rd Decade sergeant",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        },
+        {
+          "id": "community-zenma",
+          "name": "Zenma",
+          "title": "Collector-adventurer",
+          "location": "Torna regions",
+          "dlc": "Torna"
+        }
+      ]
+    }
+  }
+}

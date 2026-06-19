@@ -1,0 +1,15 @@
+# user progress (personal save; gem prefill is regenerable via app/seed/gems_from_sheets.py)
+data/progress.json
+data/progress.json.bak
+
+# scraper HTML cache (regenerable; large)
+app/seed/cache/
+
+# python
+__pycache__/
+*.pyc
+
+# os / editor
+Thumbs.db
+.DS_Store
+*.tmp
