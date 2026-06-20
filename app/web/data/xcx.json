@@ -12152,6 +12152,1972 @@
           "dlc": ""
         }
       ]
+    },
+    "skellarmor": {
+      "expected": 245,
+      "partial": true,
+      "items": [
+        {
+          "id": "skell-sk20sa-l-head-spd",
+          "name": "SK20SA L-HEAD-SPD",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk20gg-l-head-def",
+          "name": "SK20GG L-HEAD-DEF",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk20sa-l-head-atk",
+          "name": "SK20SA L-HEAD-ATK",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-m-head-rng",
+          "name": "SK30SA M-HEAD-RNG",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-l-head-spd",
+          "name": "SK30SA L-HEAD-SPD",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30me-h-head-eth",
+          "name": "SK30ME H-HEAD-ETH",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co.",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30gg-l-head-def",
+          "name": "SK30GG L-HEAD-DEF",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-h-head-atk2",
+          "name": "SK30SA H-HEAD-ATK2",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-m-head-mel",
+          "name": "SK30SA M-HEAD-MEL",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-l-head-atk",
+          "name": "SK30SA L-HEAD-ATK",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-h-head-atk3",
+          "name": "SK30SA H-HEAD-ATK3",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-h-head-atk3",
+          "name": "SK50SA H-HEAD-ATK3",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-m-head-rng",
+          "name": "SK50SA M-HEAD-RNG",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-l-head-spd",
+          "name": "SK50SA L-HEAD-SPD",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50me-h-head-eth",
+          "name": "SK50ME H-HEAD-ETH",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co.",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50gg-l-head-def",
+          "name": "SK50GG L-HEAD-DEF",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-h-head-atk2",
+          "name": "SK50SA H-HEAD-ATK2",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-m-head-mel",
+          "name": "SK50SA M-HEAD-MEL",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-l-head-atk",
+          "name": "SK50SA L-HEAD-ATK",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk20sa-l-body-spd",
+          "name": "SK20SA L-BODY-SPD",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk20gg-l-body-def",
+          "name": "SK20GG L-BODY-DEF",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk20sa-l-body-atk",
+          "name": "SK20SA L-BODY-ATK",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-m-body-rng",
+          "name": "SK30SA M-BODY-RNG",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-l-body-spd",
+          "name": "SK30SA L-BODY-SPD",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30me-h-body-eth",
+          "name": "SK30ME H-BODY-ETH",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co.",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30gg-l-body-def",
+          "name": "SK30GG L-BODY-DEF",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-h-body-atk2",
+          "name": "SK30SA H-BODY-ATK2",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-m-body-mel",
+          "name": "SK30SA M-BODY-MEL",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-l-body-atk",
+          "name": "SK30SA L-BODY-ATK",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-h-body-atk3",
+          "name": "SK30SA H-BODY-ATK3",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-h-body-atk3",
+          "name": "SK50SA H-BODY-ATK3",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-m-body-rng",
+          "name": "SK50SA M-BODY-RNG",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-l-body-spd",
+          "name": "SK50SA L-BODY-SPD",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50me-h-body-eth",
+          "name": "SK50ME H-BODY-ETH",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co.",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50gg-l-body-def",
+          "name": "SK50GG L-BODY-DEF",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-h-body-atk2",
+          "name": "SK50SA H-BODY-ATK2",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-m-body-mel",
+          "name": "SK50SA M-BODY-MEL",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-l-body-atk",
+          "name": "SK50SA L-BODY-ATK",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk20sa-l-rarm-spd",
+          "name": "SK20SA L-RARM-SPD",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk20gg-l-rarm-def",
+          "name": "SK20GG L-RARM-DEF",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk20sa-l-rarm-atk",
+          "name": "SK20SA L-RARM-ATK",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-m-rarm-rng",
+          "name": "SK30SA M-RARM-RNG",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-l-rarm-spd",
+          "name": "SK30SA L-RARM-SPD",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30me-h-rarm-eth",
+          "name": "SK30ME H-RARM-ETH",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co.",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30gg-l-rarm-def",
+          "name": "SK30GG L-RARM-DEF",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-h-rarm-atk2",
+          "name": "SK30SA H-RARM-ATK2",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-m-rarm-mel",
+          "name": "SK30SA M-RARM-MEL",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-l-rarm-atk",
+          "name": "SK30SA L-RARM-ATK",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-h-rarm-atk3",
+          "name": "SK30SA H-RARM-ATK3",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-h-rarm-atk3",
+          "name": "SK50SA H-RARM-ATK3",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-m-rarm-rng",
+          "name": "SK50SA M-RARM-RNG",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-l-rarm-spd",
+          "name": "SK50SA L-RARM-SPD",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50me-h-rarm-eth",
+          "name": "SK50ME H-RARM-ETH",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co.",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50gg-l-rarm-def",
+          "name": "SK50GG L-RARM-DEF",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-h-rarm-atk2",
+          "name": "SK50SA H-RARM-ATK2",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-m-rarm-mel",
+          "name": "SK50SA M-RARM-MEL",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-l-rarm-atk",
+          "name": "SK50SA L-RARM-ATK",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk20sa-l-larm-spd",
+          "name": "SK20SA L-LARM-SPD",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk20gg-l-larm-def",
+          "name": "SK20GG L-LARM-DEF",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk20sa-l-larm-atk",
+          "name": "SK20SA L-LARM-ATK",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-m-larm-rng",
+          "name": "SK30SA M-LARM-RNG",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-l-larm-spd",
+          "name": "SK30SA L-LARM-SPD",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30me-h-larm-eth",
+          "name": "SK30ME H-LARM-ETH",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co.",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30gg-l-larm-def",
+          "name": "SK30GG L-LARM-DEF",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-h-larm-atk2",
+          "name": "SK30SA H-LARM-ATK2",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-m-larm-mel",
+          "name": "SK30SA M-LARM-MEL",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-l-larm-atk",
+          "name": "SK30SA L-LARM-ATK",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-h-larm-atk3",
+          "name": "SK30SA H-LARM-ATK3",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-h-larm-atk3",
+          "name": "SK50SA H-LARM-ATK3",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-m-larm-rng",
+          "name": "SK50SA M-LARM-RNG",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-l-larm-spd",
+          "name": "SK50SA L-LARM-SPD",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50me-h-larm-eth",
+          "name": "SK50ME H-LARM-ETH",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co.",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50gg-l-larm-def",
+          "name": "SK50GG L-LARM-DEF",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-h-larm-atk2",
+          "name": "SK50SA H-LARM-ATK2",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-m-larm-mel",
+          "name": "SK50SA M-LARM-MEL",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-l-larm-atk",
+          "name": "SK50SA L-LARM-ATK",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk20sa-l-legs-spd",
+          "name": "SK20SA L-LEGS-SPD",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk20gg-l-legs-def",
+          "name": "SK20GG L-LEGS-DEF",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk20sa-l-legs-atk",
+          "name": "SK20SA L-LEGS-ATK",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-m-legs-rng",
+          "name": "SK30SA M-LEGS-RNG",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-l-legs-spd",
+          "name": "SK30SA L-LEGS-SPD",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30me-h-legs-eth",
+          "name": "SK30ME H-LEGS-ETH",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co.",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30gg-l-legs-def",
+          "name": "SK30GG L-LEGS-DEF",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-h-legs-atk2",
+          "name": "SK30SA H-LEGS-ATK2",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-m-legs-mel",
+          "name": "SK30SA M-LEGS-MEL",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-l-legs-atk",
+          "name": "SK30SA L-LEGS-ATK",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk30sa-h-legs-atk3",
+          "name": "SK30SA H-LEGS-ATK3",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-h-legs-atk3",
+          "name": "SK50SA H-LEGS-ATK3",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-m-legs-rng",
+          "name": "SK50SA M-LEGS-RNG",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-l-legs-spd",
+          "name": "SK50SA L-LEGS-SPD",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50me-h-legs-eth",
+          "name": "SK50ME H-LEGS-ETH",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co.",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50gg-l-legs-def",
+          "name": "SK50GG L-LEGS-DEF",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-h-legs-atk2",
+          "name": "SK50SA H-LEGS-ATK2",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-m-legs-mel",
+          "name": "SK50SA M-LEGS-MEL",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-sk50sa-l-legs-atk",
+          "name": "SK50SA L-LEGS-ATK",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20sa-l-head-spd2",
+          "name": "XSK20SA L-HEAD-SPD2",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20sa-l-body-spd2",
+          "name": "XSK20SA L-BODY-SPD2",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20sa-l-rarm-spd2",
+          "name": "XSK20SA L-RARM-SPD2",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20sa-l-larm-spd2",
+          "name": "XSK20SA L-LARM-SPD2",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20sa-l-legs-spd2",
+          "name": "XSK20SA L-LEGS-SPD2",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30sa-l-head-spd2",
+          "name": "XSK30SA L-HEAD-SPD2",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30sa-l-body-spd2",
+          "name": "XSK30SA L-BODY-SPD2",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30sa-l-rarm-spd2",
+          "name": "XSK30SA L-RARM-SPD2",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30sa-l-larm-spd2",
+          "name": "XSK30SA L-LARM-SPD2",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30sa-l-legs-spd2",
+          "name": "XSK30SA L-LEGS-SPD2",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40sa-l-head-spd2",
+          "name": "XSK40SA L-HEAD-SPD2",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40sa-l-body-spd2",
+          "name": "XSK40SA L-BODY-SPD2",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40sa-l-rarm-spd2",
+          "name": "XSK40SA L-RARM-SPD2",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40sa-l-larm-spd2",
+          "name": "XSK40SA L-LARM-SPD2",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40sa-l-legs-spd2",
+          "name": "XSK40SA L-LEGS-SPD2",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50sa-l-head-spd2",
+          "name": "XSK50SA L-HEAD-SPD2",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50sa-l-body-spd2",
+          "name": "XSK50SA L-BODY-SPD2",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50sa-l-rarm-spd2",
+          "name": "XSK50SA L-RARM-SPD2",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50sa-l-larm-spd2",
+          "name": "XSK50SA L-LARM-SPD2",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50sa-l-legs-spd2",
+          "name": "XSK50SA L-LEGS-SPD2",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60sa-l-head-spd2",
+          "name": "XSK60SA L-HEAD-SPD2",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60sa-l-body-spd2",
+          "name": "XSK60SA L-BODY-SPD2",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60sa-l-rarm-spd2",
+          "name": "XSK60SA L-RARM-SPD2",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60sa-l-larm-spd2",
+          "name": "XSK60SA L-LARM-SPD2",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60sa-l-legs-spd2",
+          "name": "XSK60SA L-LEGS-SPD2",
+          "type": "Light Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20sa-m-head-mel2",
+          "name": "XSK20SA M-HEAD-MEL2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20sa-m-body-mel2",
+          "name": "XSK20SA M-BODY-MEL2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20sa-m-rarm-mel2",
+          "name": "XSK20SA M-RARM-MEL2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20sa-m-larm-mel2",
+          "name": "XSK20SA M-LARM-MEL2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20sa-m-legs-mel2",
+          "name": "XSK20SA M-LEGS-MEL2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20sa-m-head-def2",
+          "name": "XSK20SA M-HEAD-DEF2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20sa-m-body-def2",
+          "name": "XSK20SA M-BODY-DEF2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20sa-m-rarm-def2",
+          "name": "XSK20SA M-RARM-DEF2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20sa-m-larm-def2",
+          "name": "XSK20SA M-LARM-DEF2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20sa-m-legs-def2",
+          "name": "XSK20SA M-LEGS-DEF2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30sa-m-head-mel2",
+          "name": "XSK30SA M-HEAD-MEL2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30sa-m-body-mel2",
+          "name": "XSK30SA M-BODY-MEL2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30sa-m-rarm-mel2",
+          "name": "XSK30SA M-RARM-MEL2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30sa-m-larm-mel2",
+          "name": "XSK30SA M-LARM-MEL2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30sa-m-legs-mel2",
+          "name": "XSK30SA M-LEGS-MEL2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30sa-m-head-def2",
+          "name": "XSK30SA M-HEAD-DEF2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30sa-m-body-def2",
+          "name": "XSK30SA M-BODY-DEF2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30sa-m-rarm-def2",
+          "name": "XSK30SA M-RARM-DEF2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30sa-m-larm-def2",
+          "name": "XSK30SA M-LARM-DEF2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30sa-m-legs-def2",
+          "name": "XSK30SA M-LEGS-DEF2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40sa-m-head-mel2",
+          "name": "XSK40SA M-HEAD-MEL2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40sa-m-body-mel2",
+          "name": "XSK40SA M-BODY-MEL2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40sa-m-rarm-mel2",
+          "name": "XSK40SA M-RARM-MEL2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40sa-m-larm-mel2",
+          "name": "XSK40SA M-LARM-MEL2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40sa-m-legs-mel2",
+          "name": "XSK40SA M-LEGS-MEL2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40sa-m-head-def2",
+          "name": "XSK40SA M-HEAD-DEF2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40sa-m-body-def2",
+          "name": "XSK40SA M-BODY-DEF2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40sa-m-rarm-def2",
+          "name": "XSK40SA M-RARM-DEF2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40sa-m-larm-def2",
+          "name": "XSK40SA M-LARM-DEF2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40sa-m-legs-def2",
+          "name": "XSK40SA M-LEGS-DEF2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50sa-m-head-mel2",
+          "name": "XSK50SA M-HEAD-MEL2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50sa-m-body-mel2",
+          "name": "XSK50SA M-BODY-MEL2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50sa-m-rarm-mel2",
+          "name": "XSK50SA M-RARM-MEL2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50sa-m-larm-mel2",
+          "name": "XSK50SA M-LARM-MEL2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50sa-m-legs-mel2",
+          "name": "XSK50SA M-LEGS-MEL2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50sa-m-head-def2",
+          "name": "XSK50SA M-HEAD-DEF2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50sa-m-body-def2",
+          "name": "XSK50SA M-BODY-DEF2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50sa-m-rarm-def2",
+          "name": "XSK50SA M-RARM-DEF2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50sa-m-larm-def2",
+          "name": "XSK50SA M-LARM-DEF2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50sa-m-legs-def2",
+          "name": "XSK50SA M-LEGS-DEF2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60sa-m-head-mel2",
+          "name": "XSK60SA M-HEAD-MEL2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60sa-m-body-mel2",
+          "name": "XSK60SA M-BODY-MEL2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60sa-m-rarm-mel2",
+          "name": "XSK60SA M-RARM-MEL2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60sa-m-larm-mel2",
+          "name": "XSK60SA M-LARM-MEL2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60sa-m-legs-mel2",
+          "name": "XSK60SA M-LEGS-MEL2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60sa-m-head-def2",
+          "name": "XSK60SA M-HEAD-DEF2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60sa-m-body-def2",
+          "name": "XSK60SA M-BODY-DEF2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60sa-m-rarm-def2",
+          "name": "XSK60SA M-RARM-DEF2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60sa-m-larm-def2",
+          "name": "XSK60SA M-LARM-DEF2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60sa-m-legs-def2",
+          "name": "XSK60SA M-LEGS-DEF2",
+          "type": "Medium Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20sa-h-head-atk4",
+          "name": "XSK20SA H-HEAD-ATK4",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20sa-h-body-atk4",
+          "name": "XSK20SA H-BODY-ATK4",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20sa-h-rarm-atk4",
+          "name": "XSK20SA H-RARM-ATK4",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20sa-h-larm-atk4",
+          "name": "XSK20SA H-LARM-ATK4",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20sa-h-legs-atk4",
+          "name": "XSK20SA H-LEGS-ATK4",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30sa-h-head-atk4",
+          "name": "XSK30SA H-HEAD-ATK4",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30sa-h-body-atk4",
+          "name": "XSK30SA H-BODY-ATK4",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30sa-h-rarm-atk4",
+          "name": "XSK30SA H-RARM-ATK4",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30sa-h-larm-atk4",
+          "name": "XSK30SA H-LARM-ATK4",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30sa-h-legs-atk4",
+          "name": "XSK30SA H-LEGS-ATK4",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40sa-h-head-atk4",
+          "name": "XSK40SA H-HEAD-ATK4",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40sa-h-body-atk4",
+          "name": "XSK40SA H-BODY-ATK4",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40sa-h-rarm-atk4",
+          "name": "XSK40SA H-RARM-ATK4",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40sa-h-larm-atk4",
+          "name": "XSK40SA H-LARM-ATK4",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40sa-h-legs-atk4",
+          "name": "XSK40SA H-LEGS-ATK4",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50sa-h-head-atk4",
+          "name": "XSK50SA H-HEAD-ATK4",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50sa-h-body-atk4",
+          "name": "XSK50SA H-BODY-ATK4",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50sa-h-rarm-atk4",
+          "name": "XSK50SA H-RARM-ATK4",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50sa-h-larm-atk4",
+          "name": "XSK50SA H-LARM-ATK4",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50sa-h-legs-atk4",
+          "name": "XSK50SA H-LEGS-ATK4",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60sa-h-head-atk4",
+          "name": "XSK60SA H-HEAD-ATK4",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60sa-h-body-atk4",
+          "name": "XSK60SA H-BODY-ATK4",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60sa-h-rarm-atk4",
+          "name": "XSK60SA H-RARM-ATK4",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60sa-h-larm-atk4",
+          "name": "XSK60SA H-LARM-ATK4",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60sa-h-legs-atk4",
+          "name": "XSK60SA H-LEGS-ATK4",
+          "type": "Heavy Armor",
+          "source": "Sakuraba Industries (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20gg-l-head-spd3",
+          "name": "XSK20GG L-HEAD-SPD3",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20gg-l-body-spd3",
+          "name": "XSK20GG L-BODY-SPD3",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20gg-l-rarm-spd3",
+          "name": "XSK20GG L-RARM-SPD3",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20gg-l-larm-spd3",
+          "name": "XSK20GG L-LARM-SPD3",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20gg-l-legs-spd3",
+          "name": "XSK20GG L-LEGS-SPD3",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30gg-l-head-spd3",
+          "name": "XSK30GG L-HEAD-SPD3",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30gg-l-body-spd3",
+          "name": "XSK30GG L-BODY-SPD3",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30gg-l-rarm-spd3",
+          "name": "XSK30GG L-RARM-SPD3",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30gg-l-larm-spd3",
+          "name": "XSK30GG L-LARM-SPD3",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30gg-l-legs-spd3",
+          "name": "XSK30GG L-LEGS-SPD3",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40gg-l-head-spd3",
+          "name": "XSK40GG L-HEAD-SPD3",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40gg-l-body-spd3",
+          "name": "XSK40GG L-BODY-SPD3",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40gg-l-rarm-spd3",
+          "name": "XSK40GG L-RARM-SPD3",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40gg-l-larm-spd3",
+          "name": "XSK40GG L-LARM-SPD3",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40gg-l-legs-spd3",
+          "name": "XSK40GG L-LEGS-SPD3",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50gg-l-head-spd3",
+          "name": "XSK50GG L-HEAD-SPD3",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50gg-l-body-spd3",
+          "name": "XSK50GG L-BODY-SPD3",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50gg-l-rarm-spd3",
+          "name": "XSK50GG L-RARM-SPD3",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50gg-l-larm-spd3",
+          "name": "XSK50GG L-LARM-SPD3",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50gg-l-legs-spd3",
+          "name": "XSK50GG L-LEGS-SPD3",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60gg-l-head-spd3",
+          "name": "XSK60GG L-HEAD-SPD3",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60gg-l-body-spd3",
+          "name": "XSK60GG L-BODY-SPD3",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60gg-l-rarm-spd3",
+          "name": "XSK60GG L-RARM-SPD3",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60gg-l-larm-spd3",
+          "name": "XSK60GG L-LARM-SPD3",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60gg-l-legs-spd3",
+          "name": "XSK60GG L-LEGS-SPD3",
+          "type": "Light Armor",
+          "source": "Grenada Galactic Group (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20me-h-head-atk5",
+          "name": "XSK20ME H-HEAD-ATK5",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co. (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20me-h-body-atk5",
+          "name": "XSK20ME H-BODY-ATK5",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co. (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20me-h-rarm-atk5",
+          "name": "XSK20ME H-RARM-ATK5",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co. (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20me-h-larm-atk5",
+          "name": "XSK20ME H-LARM-ATK5",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co. (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk20me-h-legs-atk5",
+          "name": "XSK20ME H-LEGS-ATK5",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co. (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30me-h-head-atk5",
+          "name": "XSK30ME H-HEAD-ATK5",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co. (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30me-h-body-atk5",
+          "name": "XSK30ME H-BODY-ATK5",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co. (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30me-h-rarm-atk5",
+          "name": "XSK30ME H-RARM-ATK5",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co. (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30me-h-larm-atk5",
+          "name": "XSK30ME H-LARM-ATK5",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co. (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk30me-h-legs-atk5",
+          "name": "XSK30ME H-LEGS-ATK5",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co. (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40me-h-head-atk5",
+          "name": "XSK40ME H-HEAD-ATK5",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co. (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40me-h-body-atk5",
+          "name": "XSK40ME H-BODY-ATK5",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co. (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40me-h-rarm-atk5",
+          "name": "XSK40ME H-RARM-ATK5",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co. (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40me-h-larm-atk5",
+          "name": "XSK40ME H-LARM-ATK5",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co. (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk40me-h-legs-atk5",
+          "name": "XSK40ME H-LEGS-ATK5",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co. (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50me-h-head-atk5",
+          "name": "XSK50ME H-HEAD-ATK5",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co. (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50me-h-body-atk5",
+          "name": "XSK50ME H-BODY-ATK5",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co. (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50me-h-rarm-atk5",
+          "name": "XSK50ME H-RARM-ATK5",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co. (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50me-h-larm-atk5",
+          "name": "XSK50ME H-LARM-ATK5",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co. (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk50me-h-legs-atk5",
+          "name": "XSK50ME H-LEGS-ATK5",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co. (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60me-h-head-atk5",
+          "name": "XSK60ME H-HEAD-ATK5",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co. (AM Lv. 1)",
+          "group": "Head",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60me-h-body-atk5",
+          "name": "XSK60ME H-BODY-ATK5",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co. (AM Lv. 1)",
+          "group": "Torso",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60me-h-rarm-atk5",
+          "name": "XSK60ME H-RARM-ATK5",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co. (AM Lv. 1)",
+          "group": "Right Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60me-h-larm-atk5",
+          "name": "XSK60ME H-LARM-ATK5",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co. (AM Lv. 1)",
+          "group": "Left Arm",
+          "dlc": ""
+        },
+        {
+          "id": "skell-xsk60me-h-legs-atk5",
+          "name": "XSK60ME H-LEGS-ATK5",
+          "type": "Heavy Armor",
+          "source": "Meredith & Co. (AM Lv. 1)",
+          "group": "Legs",
+          "dlc": ""
+        }
+      ]
     }
   }
 }

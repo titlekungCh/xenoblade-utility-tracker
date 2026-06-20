@@ -152,18 +152,32 @@ export function renderCategory(ctx) {
     ${partialNote}`;
 
   // grouped or flat (a sort flattens the view so the whole list orders together)
+  const groupOf = (list, key) => {
+    const m = new Map();
+    for (const it of list) {
+      const g = it[key] || "—";
+      if (!m.has(g)) m.set(g, []);
+      m.get(g).push(it);
+    }
+    return m;
+  };
   let tables;
   if (def.groupBy && !q && !ui.onlyIncomplete && !ui.sortKey) {
-    const groups = new Map();
-    for (const it of items) {
-      const g = it[def.groupBy] || "—";
-      if (!groups.has(g)) groups.set(g, []);
-      groups.get(g).push(it);
-    }
-    tables = [...groups.entries()].map(([g, gItems]) => {
+    // columns shown in the table drop the keys that are now section headers
+    const gCols = cols.filter((c) => c.key !== def.groupBy && c.key !== def.subGroupBy);
+    tables = [...groupOf(items, def.groupBy).entries()].map(([g, gItems]) => {
       const gs = statsFor(def, gItems, state, game, cat);
-      return `<div class="section-title" data-group="${esc(g)}">${esc(g)} <span class="grp-stats">${gs.done}/${gs.total}</span></div>
-        ${tableHtml(def, cols, game, cat, gItems, state, customSet, ui)}`;
+      let inner;
+      if (def.subGroupBy) {
+        inner = [...groupOf(gItems, def.subGroupBy).entries()].map(([sg, sgItems]) => {
+          const ss = statsFor(def, sgItems, state, game, cat);
+          return `<div class="subsection-title" data-group="${esc(g)}" data-subgroup="${esc(sg)}">${esc(sg)} <span class="grp-stats">${ss.done}/${ss.total}</span></div>
+            ${tableHtml(def, gCols, game, cat, sgItems, state, customSet, ui)}`;
+        }).join("");
+      } else {
+        inner = tableHtml(def, gCols, game, cat, gItems, state, customSet, ui);
+      }
+      return `<div class="section-title ${def.subGroupBy ? "area-title" : ""}" data-group="${esc(g)}">${esc(g)} <span class="grp-stats">${gs.done}/${gs.total}</span></div>${inner}`;
     }).join("");
   } else {
     tables = tableHtml(def, cols, game, cat, items, state, customSet, ui);

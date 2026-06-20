@@ -228,7 +228,7 @@ document.addEventListener("change", (e) => {
     // to a full re-render for gems (custom view) and when "hide completed" is on
     // (a now-complete row needs to disappear).
     const def = CATEGORY_DEFS[tab];
-    if (def.render === "gems" || ui(camp, tab).onlyIncomplete) rerender();
+    if (def.render === "gems" || def.subGroupBy || ui(camp, tab).onlyIncomplete) rerender();
     else incrementalField(f, def);
     return;
   }

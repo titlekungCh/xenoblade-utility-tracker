@@ -165,7 +165,8 @@ export const CATEGORY_DEFS = {
       { key: "category", label: "Category" },
       { key: "area", label: "Area" },
     ],
-    groupBy: "area",
+    groupBy: "area",        // in-game book: a page per area…
+    subGroupBy: "category", // …each split into collectible categories
   },
   // XC1 / XCX — ground (player-worn) armour appearances
   fashiongear: {
@@ -200,6 +201,17 @@ export const CATEGORY_DEFS = {
     ],
     groupBy: "character",
   },
+  // XC3·FR — unique accessories (the FR chain-attack Manuals), grouped by type
+  uniqueaccessory: {
+    label: "Unique Accessories", icon: "💍",
+    doneKey: "acquired",
+    fields: [{ key: "acquired", type: "check", label: "Acquired" }],
+    columns: [
+      { key: "hchain", label: "Heroic Chain" },
+      { key: "cbonus", label: "Completion Bonus" },
+    ],
+    groupBy: "group",
+  },
   // XC3 / XC3·FR — custom renderer (gem + per-resource farm tracking)
   gems: {
     label: "Gems (Tier X)", icon: "💎",
@@ -227,7 +239,7 @@ export const CATEGORY_DEFS = {
 const XC1_CATS = ["monsters", "quests", "heart2heart", "skilltrees", "skillbooks", "collectopedia", "fashiongear", "ponspector"];
 const XCX_CATS = ["monsters", "quests", "heart2heart", "classes", "skells", "survey", "collectopedia", "fashiongear", "skellarmor"];
 const XC2_CATS = ["monsters", "quests", "heart2heart", "blades", "mercmissions", "community"];
-const XC3_CATS = ["monsters", "quests", "heart2heart", "classes", "soulhack", "soultree", "gems"];
+const XC3_CATS = ["monsters", "quests", "heart2heart", "classes", "soulhack", "soultree", "gems", "uniqueaccessory"];
 
 export const CAMPAIGNS = {
   xc1: {

@@ -7485,6 +7485,492 @@
           "dlc": ""
         }
       ]
+    },
+    "uniqueaccessory": {
+      "expected": 60,
+      "partial": false,
+      "items": [
+        {
+          "id": "acc-battle-manual-vol-1",
+          "name": "Battle Manual, vol. 1",
+          "group": "Battle Manual",
+          "hchain": "Multiplies TP by 150% when first in line to attack.",
+          "cbonus": "",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-battle-manual-vol-2",
+          "name": "Battle Manual, vol. 2",
+          "group": "Battle Manual",
+          "hchain": "When chosen, multiplies TP from next character to act by 125%. (Valid only for this order.)",
+          "cbonus": "",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-battle-manual-vol-3",
+          "name": "Battle Manual, vol. 3",
+          "group": "Battle Manual",
+          "hchain": "Guarantees a \"Bravo\" rating when character completes an order.",
+          "cbonus": "",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-battle-manual-vol-4",
+          "name": "Battle Manual, vol. 4",
+          "group": "Battle Manual",
+          "hchain": "Multiplies TP by 200% when first in line to attack, but TP returns to pre-action state upon reactivation.",
+          "cbonus": "",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-battle-manual-vol-5",
+          "name": "Battle Manual, vol. 5",
+          "group": "Battle Manual",
+          "hchain": "When character completes an order, adds 15 to TP of the character with the most TP, and reactivates them.",
+          "cbonus": "",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-battle-manual-vol-6",
+          "name": "Battle Manual, vol. 6",
+          "group": "Battle Manual",
+          "hchain": "Reactivates all characters except self when character completes an order.",
+          "cbonus": "",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-battle-manual-vol-7",
+          "name": "Battle Manual, vol. 7",
+          "group": "Battle Manual",
+          "hchain": "Prevents order from completing if it reaches 100% through character's action, letting you select another.",
+          "cbonus": "",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-battle-manual-vol-8",
+          "name": "Battle Manual, vol. 8",
+          "group": "Battle Manual",
+          "hchain": "When chosen, increases TP by 50 if the enemy is a machine-type.",
+          "cbonus": "",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-battle-manual-vol-9",
+          "name": "Battle Manual, vol. 9",
+          "group": "Battle Manual",
+          "hchain": "Adds 15 TP upon own reactivation.",
+          "cbonus": "",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-battle-manual-vol-10",
+          "name": "Battle Manual, vol. 10",
+          "group": "Battle Manual",
+          "hchain": "When chosen, grants 10 TP to all active characters except self.",
+          "cbonus": "",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-battle-manual-vol-11",
+          "name": "Battle Manual, vol. 11",
+          "group": "Battle Manual",
+          "hchain": "Multiplies TP by 125% when first in line to attack, and makes all attacks critical.",
+          "cbonus": "",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-battle-manual-vol-12",
+          "name": "Battle Manual, vol. 12",
+          "group": "Battle Manual",
+          "hchain": "When chosen, increases damage ratio by 50 percentage points.",
+          "cbonus": "",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-battle-manual-vol-13",
+          "name": "Battle Manual, vol. 13",
+          "group": "Battle Manual",
+          "hchain": "Guarantees an \"Amazing\" rating when character finishes an order, but they won't reactivate in this Chain Attack.",
+          "cbonus": "",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-battle-manual-vol-14",
+          "name": "Battle Manual, vol. 14",
+          "group": "Battle Manual",
+          "hchain": "Either adds 50 or removes 50 TP upon own reactivation.",
+          "cbonus": "",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-battle-manual-vol-15",
+          "name": "Battle Manual, vol. 15",
+          "group": "Battle Manual",
+          "hchain": "When chosen, multiplies the TP of all active characters except self by 120%.",
+          "cbonus": "",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-battle-manual-vol-16",
+          "name": "Battle Manual, vol. 16",
+          "group": "Battle Manual",
+          "hchain": "Multiplies TP by 150% when character completes an order.",
+          "cbonus": "",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-battle-manual-vol-17",
+          "name": "Battle Manual, vol. 17",
+          "group": "Battle Manual",
+          "hchain": "When chosen, assures self- reactivation in addition to the standard no. of reactivations.",
+          "cbonus": "",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-battle-manual-vol-18",
+          "name": "Battle Manual, vol. 18",
+          "group": "Battle Manual",
+          "hchain": "Multiplies damage ratio increase by 1.5x upon completing an order that character participates in.",
+          "cbonus": "",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-battle-manual-vol-19",
+          "name": "Battle Manual, vol. 19",
+          "group": "Battle Manual",
+          "hchain": "When character completes an order, adds 30 to TP of the character with the least TP, and reactivates them.",
+          "cbonus": "",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-battle-manual-vol-20",
+          "name": "Battle Manual, vol. 20",
+          "group": "Battle Manual",
+          "hchain": "When chosen, adds 15 to TP of all active characters, and removes 10 from own TP.",
+          "cbonus": "",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-strategy-manual-vol-1",
+          "name": "Strategy Manual, vol. 1",
+          "group": "Strategy Manual",
+          "hchain": "Guarantees a \"Bravo\" rating when character completes an order.",
+          "cbonus": "Increases Defender aggro by 50% and grants Armor Veil to all allies.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-strategy-manual-vol-2",
+          "name": "Strategy Manual, vol. 2",
+          "group": "Strategy Manual",
+          "hchain": "Guarantees a \"Bravo\" rating when character completes an order.",
+          "cbonus": "Increases Defender aggro by 50% and grants Attack Up to all allies.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-strategy-manual-vol-3",
+          "name": "Strategy Manual, vol. 3",
+          "group": "Strategy Manual",
+          "hchain": "Guarantees an \"Amazing\" rating when character finishes an order, but they won't reactivate in this Chain Attack.",
+          "cbonus": "Randomly increases all characters' TP by between 6 and 18.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-strategy-manual-vol-4",
+          "name": "Strategy Manual, vol. 4",
+          "group": "Strategy Manual",
+          "hchain": "Multiplies TP by 150% when character completes an order.",
+          "cbonus": "Increases everyone's TP by 10.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-strategy-manual-vol-5",
+          "name": "Strategy Manual, vol. 5",
+          "group": "Strategy Manual",
+          "hchain": "Multiplies TP by 150% when first in line to attack.",
+          "cbonus": "During Chain Attack, boosts damage dealt to low HP enemies by 100%.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-strategy-manual-vol-6",
+          "name": "Strategy Manual, vol. 6",
+          "group": "Strategy Manual",
+          "hchain": "Prevents order from completing if it reaches 100% through character's action, letting you select another.",
+          "cbonus": "Increases damage ratio by 100 percentage points and grants Critical Rate Up to all allies.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-strategy-manual-vol-7",
+          "name": "Strategy Manual, vol. 7",
+          "group": "Strategy Manual",
+          "hchain": "When chosen, assures self- reactivation in addition to the standard no. of reactivations.",
+          "cbonus": "Increases damage ratio by 100 percentage points and grants Critical Rate Up to all allies.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-strategy-manual-vol-8",
+          "name": "Strategy Manual, vol. 8",
+          "group": "Strategy Manual",
+          "hchain": "When character completes an order, adds 15 to TP of the character with the most TP, and reactivates them.",
+          "cbonus": "Increases damage ratio by 100 percentage points and grants Attack Up to all allies.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-strategy-manual-vol-9",
+          "name": "Strategy Manual, vol. 9",
+          "group": "Strategy Manual",
+          "hchain": "Multiplies TP by 125% when first in line to attack, and makes all attacks critical.",
+          "cbonus": "Increases damage ratio by 100 percentage points and grants Power Charge to all allies.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-strategy-manual-vol-10",
+          "name": "Strategy Manual, vol. 10",
+          "group": "Strategy Manual",
+          "hchain": "Multiplies damage ratio increase by 1.5x upon completing an order that character participates in.",
+          "cbonus": "During Chain Attack, increases Critical Rate by 30 percentage points.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-strategy-manual-vol-11",
+          "name": "Strategy Manual, vol. 11",
+          "group": "Strategy Manual",
+          "hchain": "When chosen, grants 10 TP to all active characters except self.",
+          "cbonus": "During Chain Attack, heals 10% of damage dealt as HP, up to 200% of Healing Power.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-strategy-manual-vol-12",
+          "name": "Strategy Manual, vol. 12",
+          "group": "Strategy Manual",
+          "hchain": "When chosen, multiplies the TP of all active characters except self by 120%.",
+          "cbonus": "Reduces Attacker and Healer aggro by 100%.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-strategy-manual-vol-13",
+          "name": "Strategy Manual, vol. 13",
+          "group": "Strategy Manual",
+          "hchain": "When chosen, adds 15 to TP of all active characters, and removes 10 from own TP.",
+          "cbonus": "Attacks during Chain Attack gain 100% chance to be unblockable.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-strategy-manual-vol-14",
+          "name": "Strategy Manual, vol. 14",
+          "group": "Strategy Manual",
+          "hchain": "When chosen, increases damage ratio by 50 percentage points.",
+          "cbonus": "One additional character is reactivated, with 30% chance for 1 more.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-strategy-manual-vol-15",
+          "name": "Strategy Manual, vol. 15",
+          "group": "Strategy Manual",
+          "hchain": "When chosen, increases TP by 50 if the enemy is a machine-type.",
+          "cbonus": "Heals all allies for 50% HP and grants them Regenerate.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-strategy-manual-vol-16",
+          "name": "Strategy Manual, vol. 16",
+          "group": "Strategy Manual",
+          "hchain": "When character completes an order, adds 30 to TP of the character with the least TP, and reactivates them.",
+          "cbonus": "Reduces enemy ether defense by 50 percentage points during Chain Attack.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-strategy-manual-vol-17",
+          "name": "Strategy Manual, vol. 17",
+          "group": "Strategy Manual",
+          "hchain": "Either adds 50 or removes 50 TP upon own reactivation.",
+          "cbonus": "Reduces enemy physical defense by 75 percentage points during Chain Attack.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-strategy-manual-vol-18",
+          "name": "Strategy Manual, vol. 18",
+          "group": "Strategy Manual",
+          "hchain": "Adds 15 TP upon own reactivation.",
+          "cbonus": "Attacks during Chain Attack gain 100% chance to bypass defense.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-strategy-manual-vol-19",
+          "name": "Strategy Manual, vol. 19",
+          "group": "Strategy Manual",
+          "hchain": "When chosen, multiplies TP from next character to act by 125%. (Valid only for this order.)",
+          "cbonus": "Attacks during Chain Attack gain 100% chance to bypass defense.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-strategy-manual-vol-20",
+          "name": "Strategy Manual, vol. 20",
+          "group": "Strategy Manual",
+          "hchain": "Multiplies TP by 200% when first in line to attack, but TP returns to pre-action state upon reactivation.",
+          "cbonus": "100% chance to revive all downed party members, allowing them to participate in the Chain Attack.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-tactics-manual-vol-1",
+          "name": "Tactics Manual, vol. 1",
+          "group": "Tactics Manual",
+          "hchain": "",
+          "cbonus": "Attacks during Chain Attack gain 100% chance to bypass defense.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-tactics-manual-vol-2",
+          "name": "Tactics Manual, vol. 2",
+          "group": "Tactics Manual",
+          "hchain": "",
+          "cbonus": "Reduces Attacker and Healer aggro by 100%.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-tactics-manual-vol-3",
+          "name": "Tactics Manual, vol. 3",
+          "group": "Tactics Manual",
+          "hchain": "",
+          "cbonus": "Reduces enemy physical defense by 75 percentage points during Chain Attack.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-tactics-manual-vol-4",
+          "name": "Tactics Manual, vol. 4",
+          "group": "Tactics Manual",
+          "hchain": "",
+          "cbonus": "Reduces enemy ether defense by 50 percentage points during Chain Attack.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-tactics-manual-vol-5",
+          "name": "Tactics Manual, vol. 5",
+          "group": "Tactics Manual",
+          "hchain": "",
+          "cbonus": "Attacks during Chain Attack gain 100% chance to be unblockable.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-tactics-manual-vol-6",
+          "name": "Tactics Manual, vol. 6",
+          "group": "Tactics Manual",
+          "hchain": "",
+          "cbonus": "One additional character is reactivated, with 30% chance for 1 more.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-tactics-manual-vol-7",
+          "name": "Tactics Manual, vol. 7",
+          "group": "Tactics Manual",
+          "hchain": "",
+          "cbonus": "100% chance to revive all downed party members, allowing them to participate in the Chain Attack.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-tactics-manual-vol-8",
+          "name": "Tactics Manual, vol. 8",
+          "group": "Tactics Manual",
+          "hchain": "",
+          "cbonus": "Heals all allies for 50% HP and grants them Regenerate.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-tactics-manual-vol-9",
+          "name": "Tactics Manual, vol. 9",
+          "group": "Tactics Manual",
+          "hchain": "",
+          "cbonus": "Increases Defender aggro by 50% and grants Attack Up to all allies.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-tactics-manual-vol-10",
+          "name": "Tactics Manual, vol. 10",
+          "group": "Tactics Manual",
+          "hchain": "",
+          "cbonus": "Increases Defender aggro by 50% and grants Armor Veil to all allies.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-tactics-manual-vol-11",
+          "name": "Tactics Manual, vol. 11",
+          "group": "Tactics Manual",
+          "hchain": "",
+          "cbonus": "During Chain Attack, heals 10% of damage dealt as HP, up to 200% of Healing Power.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-tactics-manual-vol-12",
+          "name": "Tactics Manual, vol. 12",
+          "group": "Tactics Manual",
+          "hchain": "",
+          "cbonus": "During Chain Attack, increases Critical Rate by 30 percentage points.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-tactics-manual-vol-13",
+          "name": "Tactics Manual, vol. 13",
+          "group": "Tactics Manual",
+          "hchain": "",
+          "cbonus": "During Chain Attack, boosts damage dealt to low HP enemies by 100%.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-tactics-manual-vol-14",
+          "name": "Tactics Manual, vol. 14",
+          "group": "Tactics Manual",
+          "hchain": "",
+          "cbonus": "Charges Chain Attack gauge and grants Power Charge to all allies.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-tactics-manual-vol-15",
+          "name": "Tactics Manual, vol. 15",
+          "group": "Tactics Manual",
+          "hchain": "",
+          "cbonus": "During Chain Attack, increases critical hit damage bonus by 150 percentage points.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-tactics-manual-vol-16",
+          "name": "Tactics Manual, vol. 16",
+          "group": "Tactics Manual",
+          "hchain": "",
+          "cbonus": "Increases damage ratio by 100 percentage points and grants Critical Rate Up to all allies.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-tactics-manual-vol-17",
+          "name": "Tactics Manual, vol. 17",
+          "group": "Tactics Manual",
+          "hchain": "",
+          "cbonus": "Increases damage ratio by 100 percentage points and grants Attack Up to all allies.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-tactics-manual-vol-18",
+          "name": "Tactics Manual, vol. 18",
+          "group": "Tactics Manual",
+          "hchain": "",
+          "cbonus": "Increases damage ratio by 100 percentage points and grants Power Charge to all allies.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-tactics-manual-vol-19",
+          "name": "Tactics Manual, vol. 19",
+          "group": "Tactics Manual",
+          "hchain": "",
+          "cbonus": "Increases everyone's TP by 10.",
+          "dlc": "Future Redeemed"
+        },
+        {
+          "id": "acc-tactics-manual-vol-20",
+          "name": "Tactics Manual, vol. 20",
+          "group": "Tactics Manual",
+          "hchain": "",
+          "cbonus": "Randomly increases all characters' TP by between 6 and 18.",
+          "dlc": "Future Redeemed"
+        }
+      ]
     }
   }
 }
