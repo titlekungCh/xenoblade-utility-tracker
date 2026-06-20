@@ -81,6 +81,7 @@ export const CATEGORY_DEFS = {
   soulhack: {
     label: "Soul Hack Arts", icon: "💠",
     doneKey: "acquired",
+    progressMode: "fields",   // Acquired = 50%, +Upgraded = 100%
     fields: [
       { key: "acquired", type: "check", label: "Acquired" },
       { key: "upgraded", type: "check", label: "Upgraded" },

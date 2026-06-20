@@ -2,7 +2,7 @@
 // (monsters, quests, classes, blades, soul-hack, survey segments, skill nodes…)
 // driven by the category's `fields` + `columns`. Only the dashboard is special.
 
-import { getRow, getField, isDone, statsFor, customItems } from "./progress.js";
+import { getRow, getField, isDone, itemProgress, statsFor, customItems } from "./progress.js";
 
 export function esc(s) {
   return String(s ?? "").replace(/[&<>"']/g, (c) =>
@@ -38,13 +38,14 @@ function fieldCell(def, game, cat, item, field, state) {
 }
 
 function rowHtml(def, cols, game, cat, item, state, isCustom) {
-  const done = isDone(def, getRow(state, game, cat, item.id));
+  const p = itemProgress(def, getRow(state, game, cat, item.id));
+  const cls = p >= 1 ? "done" : (p > 0 ? "partial" : "");
   const metaTds = cols.map((c) => `<td class="${c.cls || ""}">${esc(item[c.key] ?? "")}</td>`).join("");
   const fldTds = def.fields.map((f) => fieldCell(def, game, cat, item, f, state)).join("");
   const del = isCustom
     ? `<td class="rowdel"><button class="xbtn" data-act="del-row" data-id="${esc(item.id)}" title="Remove custom entry">✕</button></td>`
     : "<td></td>";
-  return `<tr class="${done ? "done" : ""}"><td class="rowname">${esc(item.name)}${isCustom ? ' <span class="custom-tag">added</span>' : ""}</td>${metaTds}${fldTds}${del}</tr>`;
+  return `<tr class="${cls}"><td class="rowname">${esc(item.name)}${isCustom ? ' <span class="custom-tag">added</span>' : ""}</td>${metaTds}${fldTds}${del}</tr>`;
 }
 
 function sortArrow(ui, key) {

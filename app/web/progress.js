@@ -46,8 +46,14 @@ export function setField(state, game, cat, id, field, value) {
   if (row && Object.keys(row).length === 0) delete c[id];
 }
 
-// Is a single item "done" per its category definition?
+// Is a single item fully "done" per its category definition?
+// `progressMode: "fields"` means every check-field must be ticked (e.g. Soul Hack
+// arts need both Acquired AND Upgraded); otherwise the single `doneKey` decides.
 export function isDone(def, row) {
+  if (def.progressMode === "fields") {
+    const checks = def.fields.filter((f) => f.type === "check");
+    return checks.length ? checks.every((f) => row && !!row[f.key]) : false;
+  }
   if (!row) return false;
   const v = row[def.doneKey];
   if (def.fields.find((f) => f.key === def.doneKey)?.type === "status") {
@@ -57,14 +63,28 @@ export function isDone(def, row) {
   return !!v;
 }
 
-// {done, total, pct} for a category given its merged item list.
+// Fractional completion of one item, 0..1. In "fields" mode it's the share of
+// check-fields ticked (so Acquired-only = 0.5); otherwise it's 0 or 1.
+export function itemProgress(def, row) {
+  if (def.progressMode === "fields") {
+    const checks = def.fields.filter((f) => f.type === "check");
+    if (!checks.length) return 0;
+    const got = row ? checks.filter((f) => !!row[f.key]).length : 0;
+    return got / checks.length;
+  }
+  return isDone(def, row) ? 1 : 0;
+}
+
+// {done, total, pct} — `done` counts fully-complete items; `pct` credits partials.
 export function statsFor(def, items, state, game, cat) {
-  let done = 0;
+  let done = 0, prog = 0;
   for (const it of items) {
-    if (isDone(def, getRow(state, game, cat, it.id))) done++;
+    const p = itemProgress(def, getRow(state, game, cat, it.id));
+    prog += p;
+    if (p >= 1) done++;
   }
   const total = items.length;
-  return { done, total, pct: total ? Math.round((done / total) * 100) : 0 };
+  return { done, total, pct: total ? Math.round((prog / total) * 100) : 0 };
 }
 
 // ---- user-added rows ----

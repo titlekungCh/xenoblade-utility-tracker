@@ -127,6 +127,9 @@ table.sheet tr:nth-child(even) td { background: #1f1a15; }
 table.sheet tr:hover td { background: #2a221b; }
 table.checklist tr.done td { background: #1e2c14; }
 table.checklist tr.done:hover td { background: #28391b; }
+/* partial completion (e.g. Soul Hack art acquired but not upgraded) */
+table.checklist tr.partial td { background: #2c2914; }
+table.checklist tr.partial:hover td { background: #38331b; }
 table.checklist td.rowname { font-weight: 600; }
 .custom-tag { font-size: 10px; color: var(--blue); font-weight: 400; }
 

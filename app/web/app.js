@@ -2,7 +2,7 @@
 import { CAMPAIGNS, CAMPAIGN_ORDER, CATEGORY_DEFS } from "./constants.js";
 import { loadCatalog, catSection, itemsFor } from "./catalog.js";
 import {
-  blankState, normalize, setField, getField, getRow, isDone, customItems,
+  blankState, normalize, setField, getField, getRow, isDone, itemProgress, customItems,
   addCustom, removeCustom, statsFor,
 } from "./progress.js";
 import { renderCategory, renderDashboard, renderGems, esc } from "./render.js";
@@ -114,7 +114,11 @@ function rerender() {
 // In-place update after a single field toggle on a checklist (no full rebuild).
 function incrementalField(input, def) {
   const tr = input.closest("tr");
-  if (tr) tr.classList.toggle("done", isDone(def, getRow(state, camp, tab, input.dataset.id)));
+  if (tr) {
+    const p = itemProgress(def, getRow(state, camp, tab, input.dataset.id));
+    tr.classList.toggle("done", p >= 1);
+    tr.classList.toggle("partial", p > 0 && p < 1);
+  }
   updateChecklistStats(def);
 }
 function cssAttr(v) {
